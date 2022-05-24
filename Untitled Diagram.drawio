@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T04:11:01.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="l11xt3rQYVthdfHQyr07" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T04:12:02.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="g5ItPjNQLCe95lwD4XSF" version="18.1.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-32" value="&lt;b&gt;未識別&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1860" y="490" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ln6FcJClQyvE4a3wRQ_i-33" value="&lt;b&gt;More vulnerable&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ln6FcJClQyvE4a3wRQ_i-33" value="&lt;b&gt;more vulnerable&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1990" y="490" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-36" target="ln6FcJClQyvE4a3wRQ_i-30" edge="1">
