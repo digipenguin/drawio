@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T04:38:41.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="on5NDHjFZacNMshdmuC5" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T08:27:33.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="PjMQBYKCZ5icyZ9ayFDW" version="18.1.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,8 +37,8 @@
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-11" value="&lt;b&gt;Senior Management&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="385" y="495" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ln6FcJClQyvE4a3wRQ_i-12" value="attitude, belifs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="415" y="535" width="110" height="30" as="geometry" />
+        <mxCell id="ln6FcJClQyvE4a3wRQ_i-12" value="attitude, belifs, knowledge" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="415" y="535" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-14" target="ln6FcJClQyvE4a3wRQ_i-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -203,13 +203,13 @@
           <mxGeometry x="148" y="116.18" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-66" value="R = P x I&lt;br&gt;定性: 低中高&lt;br&gt;定量: 數字, %" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="343" y="264.43" width="92" height="47" as="geometry" />
+          <mxGeometry x="350" y="264.43" width="77" height="47" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-67" value="risk appetite&lt;br&gt;risk tolerance" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="358" y="347.93" width="90" height="30" as="geometry" />
+          <mxGeometry x="350" y="347.93" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-68" value="威脅: 外部不可控&lt;br&gt;弱點: 內部可控" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="358" y="175.43" width="110" height="30" as="geometry" />
+          <mxGeometry x="351" y="175.43" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TevLKIAy9YhjM-IDDqqt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="ln6FcJClQyvE4a3wRQ_i-69" target="TevLKIAy9YhjM-IDDqqt-4">
           <mxGeometry relative="1" as="geometry" />
