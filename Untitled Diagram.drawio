@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T04:26:24.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="oSWuFw-MtNw4OTNeBdz1" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T04:30:02.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="1fuoCDUl-nZNnLAhkIt0" version="18.1.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,6 +247,9 @@
         </mxCell>
         <mxCell id="TevLKIAy9YhjM-IDDqqt-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;risk scenarios&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;align=center;" vertex="1" parent="1">
           <mxGeometry x="680" y="230.13" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TevLKIAy9YhjM-IDDqqt-10" value="&lt;font color=&quot;#000000&quot;&gt;威脅與弱點協助在風險情境中評估出機率與衝擊&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="538" y="285.25" width="142" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
