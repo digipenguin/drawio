@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T03:53:08.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="W0f8tg3xgdgRv-8EG4GW" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T03:55:26.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="mauDQPj8J_zOtYkdW4Sc" version="18.1.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -331,8 +331,8 @@
         <mxCell id="at9FaAFanRED1QmZHUpi-16" value="&lt;b&gt;Risk Owner&lt;br&gt;Process Owner&amp;nbsp;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2110" y="397.93" width="110" height="42.07" as="geometry" />
         </mxCell>
-        <mxCell id="at9FaAFanRED1QmZHUpi-18" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;1.&lt;font color=&quot;#ff0000&quot;&gt;識別&lt;/font&gt;及&lt;font color=&quot;#ff0000&quot;&gt;處理風險&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;2.&lt;font color=&quot;#ff0000&quot;&gt;確保控制&lt;/font&gt;措施&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;3.遵循政策&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2300" y="387.93" width="110" height="62.07" as="geometry" />
+        <mxCell id="at9FaAFanRED1QmZHUpi-18" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;1.&lt;font color=&quot;#ff0000&quot;&gt;識別&lt;/font&gt;及&lt;font color=&quot;#ff0000&quot;&gt;處理風險&lt;/font&gt;(依胃納)&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;2.&lt;font color=&quot;#ff0000&quot;&gt;確保控制&lt;/font&gt;措施&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;3.遵循政策&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="387.93" width="150" height="62.07" as="geometry" />
         </mxCell>
         <mxCell id="at9FaAFanRED1QmZHUpi-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" edge="1" parent="1" source="at9FaAFanRED1QmZHUpi-20" target="at9FaAFanRED1QmZHUpi-25">
           <mxGeometry relative="1" as="geometry" />
@@ -355,7 +355,7 @@
         <mxCell id="at9FaAFanRED1QmZHUpi-25" value="&lt;b&gt;Risk&amp;nbsp;&lt;/b&gt;&lt;b&gt;practitioner&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2110" y="500" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="at9FaAFanRED1QmZHUpi-27" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;1.&lt;font color=&quot;#ff0000&quot;&gt;發展&lt;/font&gt;RM框架政策標準程序&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;2.確保1st有遵守政策執行&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="at9FaAFanRED1QmZHUpi-27" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;1.&lt;font color=&quot;#ff0000&quot;&gt;發展&lt;/font&gt;RM框架政策標準程序&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;2.確保1st有遵守政策執行&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="2300" y="495" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="at9FaAFanRED1QmZHUpi-29" value="&lt;b&gt;Senior management&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
