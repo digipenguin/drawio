@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T01:59:23.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="6J12uayftJsIn_3lNhD-" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T02:02:40.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="mCflWB_XpsyDq2E5cOsv" version="18.1.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,7 +254,7 @@
         <mxCell id="TevLKIAy9YhjM-IDDqqt-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;Risk scenarios&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;align=center;" parent="1" vertex="1">
           <mxGeometry x="680" y="256.31" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TevLKIAy9YhjM-IDDqqt-10" value="威脅&lt;font color=&quot;#000000&quot;&gt;與&lt;/font&gt;弱點&lt;font color=&quot;#000000&quot;&gt;協助在風險情境中評估出&lt;/font&gt;&lt;b style=&quot;&quot;&gt;可能性&lt;/b&gt;&lt;font color=&quot;#000000&quot;&gt;與&lt;/font&gt;&lt;b style=&quot;&quot;&gt;衝擊&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="TevLKIAy9YhjM-IDDqqt-10" value="威脅與弱點評估&lt;font color=&quot;#000000&quot;&gt;協助在風險情境中評估出&lt;/font&gt;&lt;b style=&quot;&quot;&gt;可能性&lt;/b&gt;&lt;font color=&quot;#000000&quot;&gt;與&lt;/font&gt;&lt;b style=&quot;&quot;&gt;衝擊&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="538" y="327.93" width="166" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TevLKIAy9YhjM-IDDqqt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;startArrow=none;startFill=0;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="TevLKIAy9YhjM-IDDqqt-15" target="ln6FcJClQyvE4a3wRQ_i-11" edge="1">
