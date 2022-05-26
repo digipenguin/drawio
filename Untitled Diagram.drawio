@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T03:30:46.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="1CZvhGnFluBDS6KzSsO9" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-26T03:31:42.369Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="NzODjLFhxpsKzfBAkZIi" version="18.1.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -379,7 +379,7 @@
         <mxCell id="at9FaAFanRED1QmZHUpi-34" value="&lt;b&gt;Board of directors&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2105" y="746" width="120" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="at9FaAFanRED1QmZHUpi-39" value="&lt;b&gt;評估1st &amp;amp; 2nd有效性&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;提供可靠性&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="at9FaAFanRED1QmZHUpi-39" value="&lt;b&gt;評估1st &amp;amp; 2nd有效性&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;提供assurance&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;可靠性&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="2300" y="669" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="at9FaAFanRED1QmZHUpi-41" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Business Goals&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
