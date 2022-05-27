@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T23:56:40.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="J-xjGoHycoH_uU3RlAhH" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T00:02:13.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="6Y-nKqlcdw3cz1XUUEAO" version="18.1.2" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -211,7 +211,7 @@
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-65" value="&lt;b&gt;Risk Assessment&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="114" y="116.18" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ln6FcJClQyvE4a3wRQ_i-66" value="R = L x I&lt;br&gt;定性: 低中高&lt;br&gt;定量: 數字, %" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ln6FcJClQyvE4a3wRQ_i-66" value="R = P x I&lt;br&gt;定性: 低中高&lt;br&gt;定量: 數字, %" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="316" y="264.43" width="77" height="47" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-67" value="risk appetite&lt;br&gt;risk tolerance" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -226,7 +226,7 @@
         <mxCell id="TevLKIAy9YhjM-IDDqqt-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;fontColor=#000000;startArrow=none;startFill=0;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-69" target="ln6FcJClQyvE4a3wRQ_i-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ln6FcJClQyvE4a3wRQ_i-69" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;1.identify &lt;font color=&quot;#ff0000&quot;&gt;threats&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;2.identify &lt;font color=&quot;#ff0000&quot;&gt;vulnerabilities&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&amp;nbsp;3.identify assets&lt;br&gt;&amp;nbsp;4.identify controls&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&amp;nbsp;5.identify consequences&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="ln6FcJClQyvE4a3wRQ_i-69" value="&amp;nbsp;1.identify assets&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;2.identify &lt;font color=&quot;#ff0000&quot;&gt;threats&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&amp;nbsp;3.identify controls&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;4.identify &lt;font color=&quot;#ff0000&quot;&gt;vulnerabilities&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&amp;nbsp;5.identify consequences&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="520" y="168.43" width="150" height="87" as="geometry" />
         </mxCell>
         <mxCell id="TevLKIAy9YhjM-IDDqqt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;startArrow=none;startFill=0;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-70" target="TevLKIAy9YhjM-IDDqqt-4" edge="1">
