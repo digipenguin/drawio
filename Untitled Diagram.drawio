@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T00:10:04.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="rTIOMpvjnbT4Cy11sc4V" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T00:10:21.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="5KaMXwKvlQyJqhxQyGzF" version="18.1.2" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -422,19 +422,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sEhgoOJz0VxtFth73quX-3" value="Collect Answers" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="249" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="225" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sEhgoOJz0VxtFth73quX-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;" edge="1" parent="1" source="sEhgoOJz0VxtFth73quX-5" target="sEhgoOJz0VxtFth73quX-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sEhgoOJz0VxtFth73quX-5" value="Analyze Answers" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="449" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="389" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sEhgoOJz0VxtFth73quX-7" value="Take Actions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="649" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sEhgoOJz0VxtFth73quX-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;可以公開或匿名、訪談&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="234" y="1080" width="150" height="30" as="geometry" />
+          <mxGeometry x="210" y="1080" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
