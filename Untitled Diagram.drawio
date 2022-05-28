@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T08:22:50.746Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="JuSSXtgwLi2-MBVqvuo1" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-28T08:57:57.442Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ej3VUeP1TGQsRM7OEMHE" version="18.1.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="1422" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -235,7 +235,7 @@
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-65" value="&lt;b&gt;Risk Assessment&lt;br&gt;目標: &lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;了解current state&lt;br&gt;決定mitigation strategy&lt;/font&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="174" y="455" width="220" height="66.18" as="geometry" />
         </mxCell>
-        <mxCell id="ln6FcJClQyvE4a3wRQ_i-66" value="R = P x I&lt;br&gt;定性: 低中高&lt;br&gt;定量: 數字, %" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ln6FcJClQyvE4a3wRQ_i-66" value="R = L x I&lt;br&gt;定性: 低中高&lt;br&gt;定量: 數字, %" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="372" y="628.31" width="78" height="47" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-67" value="比較&lt;br&gt;risk appetite&lt;br&gt;risk tolerance" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -481,7 +481,7 @@
         <mxCell id="KODNFRQt7JBXWhugqiNK-1" value="&lt;font color=&quot;#000000&quot;&gt;inform stakeholders&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="75" y="782.43" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SDLIVgf6bMx2vHqrKDDa-3" value="migigation plan或strategy &lt;br&gt;就是指要先處理哪些風險的策略&lt;br&gt;&lt;b&gt;-&amp;gt; P x I -&amp;gt; risk analysis&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="SDLIVgf6bMx2vHqrKDDa-3" value="migigation plan或strategy &lt;br&gt;就是指要先處理哪些風險的策略&lt;br&gt;&lt;b&gt;-&amp;gt; L x I -&amp;gt; risk analysis&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="9" y="880" width="191" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SDLIVgf6bMx2vHqrKDDa-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;fontColor=#000000;" edge="1" parent="1" source="SDLIVgf6bMx2vHqrKDDa-4" target="sEhgoOJz0VxtFth73quX-19">
@@ -498,40 +498,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SDLIVgf6bMx2vHqrKDDa-7" value="&lt;b&gt;Identification&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="66" y="1210" width="98" height="60" as="geometry" />
+          <mxGeometry x="70" y="1250" width="98" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SDLIVgf6bMx2vHqrKDDa-14" value="assess" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="SDLIVgf6bMx2vHqrKDDa-9" target="SDLIVgf6bMx2vHqrKDDa-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SDLIVgf6bMx2vHqrKDDa-9" value="Threats&lt;br&gt;Vulnerabilities" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="213" y="1210" width="98" height="60" as="geometry" />
+          <mxGeometry x="217" y="1250" width="98" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SDLIVgf6bMx2vHqrKDDa-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="SDLIVgf6bMx2vHqrKDDa-13" target="SDLIVgf6bMx2vHqrKDDa-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SDLIVgf6bMx2vHqrKDDa-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="SDLIVgf6bMx2vHqrKDDa-13" target="SDLIVgf6bMx2vHqrKDDa-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SDLIVgf6bMx2vHqrKDDa-13" value="Scenarios" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="388" y="1210" width="98" height="60" as="geometry" />
+          <mxGeometry x="392" y="1250" width="98" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SDLIVgf6bMx2vHqrKDDa-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="SDLIVgf6bMx2vHqrKDDa-15" target="SDLIVgf6bMx2vHqrKDDa-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SDLIVgf6bMx2vHqrKDDa-15" value="&lt;b&gt;Analysis&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1210" width="98" height="60" as="geometry" />
+          <mxGeometry x="544" y="1250" width="98" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SDLIVgf6bMx2vHqrKDDa-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="SDLIVgf6bMx2vHqrKDDa-17" target="SDLIVgf6bMx2vHqrKDDa-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SDLIVgf6bMx2vHqrKDDa-17" value="Likelihood x Impact" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="684" y="1210" width="124" height="60" as="geometry" />
+          <mxGeometry x="688" y="1250" width="124" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SDLIVgf6bMx2vHqrKDDa-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="SDLIVgf6bMx2vHqrKDDa-19" target="SDLIVgf6bMx2vHqrKDDa-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SDLIVgf6bMx2vHqrKDDa-19" value="Ranking&lt;br&gt;Prioritizing" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1210" width="100" height="60" as="geometry" />
+          <mxGeometry x="854" y="1250" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SDLIVgf6bMx2vHqrKDDa-21" value="Mitigation Plan" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="990" y="1210" width="110" height="60" as="geometry" />
+          <mxGeometry x="994" y="1250" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SDLIVgf6bMx2vHqrKDDa-23" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; scenarios = Analysis = L x I = ranking = priority&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; 風險分析分為定性定量，不論是 qualitative or quantitative 都是為了要評分 (ranking)&amp;nbsp; -&amp;gt;&amp;nbsp; 評分是為了要給出priority&amp;nbsp; -&amp;gt;&amp;nbsp; 有priority才能衍伸出處理策略&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1340" width="900" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SDLIVgf6bMx2vHqrKDDa-24" value="L" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="426" y="1190" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
