@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-29T01:58:00.911Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MXhp3ph6gr_Qvt5kos3K" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-29T01:58:28.431Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_FHlq-o8es-2gavUlds6" version="18.1.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="1422" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,13 +113,13 @@
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-29" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;Threat&lt;/font&gt;&lt;br&gt;無法被我們控制&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="481.17999999999995" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ln6FcJClQyvE4a3wRQ_i-30" value="&lt;b&gt;已識別&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ln6FcJClQyvE4a3wRQ_i-30" value="已識別" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="884" y="584.18" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-32" target="ln6FcJClQyvE4a3wRQ_i-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ln6FcJClQyvE4a3wRQ_i-32" value="&lt;b&gt;未識別&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ln6FcJClQyvE4a3wRQ_i-32" value="未識別" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="584.18" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-33" value="&lt;b&gt;more vulnerable&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
