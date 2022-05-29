@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-29T02:12:42.943Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="6IYj43SBDQ1LrDckg7Yc" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-29T03:05:34.120Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="acP4B5pM38WyGWe4FBDz" version="18.1.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
-    <mxGraphModel dx="1422" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -568,6 +568,73 @@
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-1" value="Prioritize" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1010" y="1300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZBSud-YIM7QX_FMS43R-6" target="lZBSud-YIM7QX_FMS43R-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-6" value="&lt;b&gt;Quantitative&lt;br&gt;&lt;/b&gt;Risk analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="473.67999999999995" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZBSud-YIM7QX_FMS43R-7" target="lZBSud-YIM7QX_FMS43R-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-7" value="&lt;b&gt;Qualitative&lt;br&gt;&lt;/b&gt;Risk analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-618" y="588.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="lZBSud-YIM7QX_FMS43R-9" target="lZBSud-YIM7QX_FMS43R-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-9" value="&lt;b&gt;Semi-Quantitative&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="710.43" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZBSud-YIM7QX_FMS43R-10" target="lZBSud-YIM7QX_FMS43R-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-10" value="&lt;b&gt;R = L x I&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="473.68" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZBSud-YIM7QX_FMS43R-12" target="lZBSud-YIM7QX_FMS43R-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-12" value="Expected Monetary Value (EMV)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="473.68" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lZBSud-YIM7QX_FMS43R-15" target="lZBSud-YIM7QX_FMS43R-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-160" y="560" />
+              <mxPoint x="-568" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-15" value="總是以定量分析優先&lt;br&gt;除非沒有分析(可能性)數據" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="473.68" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZBSud-YIM7QX_FMS43R-17" target="lZBSud-YIM7QX_FMS43R-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-17" value="&lt;b&gt;Threat &amp;amp; Impact 情境&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-458" y="588.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lZBSud-YIM7QX_FMS43R-19" target="lZBSud-YIM7QX_FMS43R-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-19" value="透過專家訪談，匿名問卷" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-278" y="588.5" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-22" value="當沒有分析數據，但又不希望過度主觀" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-410" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="lZBSud-YIM7QX_FMS43R-24" target="lZBSud-YIM7QX_FMS43R-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-110" y="680" />
+              <mxPoint x="-510" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lZBSud-YIM7QX_FMS43R-24" value="主觀" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-148" y="588.5" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
