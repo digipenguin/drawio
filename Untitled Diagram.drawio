@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T02:43:43.891Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Hva2ofXqhEpnWd0tDChA" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-30T02:45:12.257Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="sOp_YgfQE0Z0whl7qKsc" version="18.1.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -675,7 +675,7 @@
         <mxCell id="lZBSud-YIM7QX_FMS43R-41" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="lZBSud-YIM7QX_FMS43R-39" target="lZBSud-YIM7QX_FMS43R-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lZBSud-YIM7QX_FMS43R-44" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="lZBSud-YIM7QX_FMS43R-39" target="lZBSud-YIM7QX_FMS43R-43" edge="1">
+        <mxCell id="lZBSud-YIM7QX_FMS43R-44" value="&lt;font color=&quot;#009900&quot;&gt;Yes&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeColor=#000000;" parent="1" source="lZBSud-YIM7QX_FMS43R-39" target="lZBSud-YIM7QX_FMS43R-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-39" value="within&lt;br&gt;acceptable&lt;br&gt;level" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
@@ -684,11 +684,11 @@
         <mxCell id="9qnvDsTE580gVhcHcqW_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="lZBSud-YIM7QX_FMS43R-43" target="9qnvDsTE580gVhcHcqW_-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lZBSud-YIM7QX_FMS43R-43" value="Accept Risk" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="465" y="1694" width="120" height="60" as="geometry" />
+        <mxCell id="lZBSud-YIM7QX_FMS43R-43" value="&lt;font color=&quot;#009900&quot;&gt;Accept Risk&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1694" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-45" value="&lt;div style=&quot;&quot;&gt;風險管理的主要目標：確保residual risk 在可接受範圍 (acceptable level)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="33.5" y="1890" width="422.5" height="40" as="geometry" />
+          <mxGeometry x="75" y="1890" width="422.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="lZBSud-YIM7QX_FMS43R-46" target="lZBSud-YIM7QX_FMS43R-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -738,8 +738,8 @@
         <mxCell id="9qnvDsTE580gVhcHcqW_-10" value="acceptable risk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-270" y="255.02" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9qnvDsTE580gVhcHcqW_-12" value="Risk Appetite" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="638.13" y="1694" width="120" height="60" as="geometry" />
+        <mxCell id="9qnvDsTE580gVhcHcqW_-12" value="&lt;font color=&quot;#009900&quot;&gt;Risk Appetite&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1694" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
