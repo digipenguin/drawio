@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T02:37:56.209Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="FfDTYoWWo2xTD_Kf40vT" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-30T02:43:43.891Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Hva2ofXqhEpnWd0tDChA" version="18.1.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,13 +14,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-3" value="&lt;b&gt;Risk Culture&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="345" y="120.04000000000005" width="80" height="40" as="geometry" />
+          <mxGeometry x="-639" y="165.02000000000004" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-5" target="ln6FcJClQyvE4a3wRQ_i-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9qnvDsTE580gVhcHcqW_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="ln6FcJClQyvE4a3wRQ_i-5" target="9qnvDsTE580gVhcHcqW_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-5" value="&lt;b&gt;Risk Appetite&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="435" y="210.04000000000013" width="100" height="40" as="geometry" />
+          <mxGeometry x="-549" y="255.02000000000015" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-3" target="ln6FcJClQyvE4a3wRQ_i-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -29,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-8" value="Risk management methodology" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="235" y="210.04000000000013" width="110" height="40" as="geometry" />
+          <mxGeometry x="-749" y="255.02000000000015" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-11" target="ln6FcJClQyvE4a3wRQ_i-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -38,31 +41,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-11" value="&lt;b&gt;Senior Management&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="345" y="40.040000000000056" width="80" height="40" as="geometry" />
+          <mxGeometry x="-639" y="85.02000000000005" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-12" value="attitude, belifs, knowledge" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="375" y="80.04000000000005" width="165" height="30" as="geometry" />
+          <mxGeometry x="-609" y="125.02000000000005" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-14" target="ln6FcJClQyvE4a3wRQ_i-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-14" value="risk aware" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="469" y="120.04000000000005" width="80" height="40" as="geometry" />
+          <mxGeometry x="-515" y="165.02000000000004" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TevLKIAy9YhjM-IDDqqt-16" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;fontColor=#000000;startArrow=none;startFill=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-15" target="TevLKIAy9YhjM-IDDqqt-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-15" value="通報可疑活動" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="594" y="120.04000000000005" width="90" height="40" as="geometry" />
+          <mxGeometry x="-390" y="165.02000000000004" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="at9FaAFanRED1QmZHUpi-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#FF0000;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-16" target="at9FaAFanRED1QmZHUpi-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-16" value="Risk Tolerance" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="435" y="301.29000000000013" width="100" height="40" as="geometry" />
+          <mxGeometry x="-549" y="346.27000000000015" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-17" value="allowed deviation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="425.5" y="250.04000000000013" width="124" height="32" as="geometry" />
+          <mxGeometry x="-558.5" y="295.02000000000015" width="124" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-19" target="ln6FcJClQyvE4a3wRQ_i-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -189,13 +192,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-54" value="&lt;b&gt;Risk practitioner&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="37.519999999999996" width="90" height="45.04" as="geometry" />
+          <mxGeometry x="-914" y="82.5" width="90" height="45.04" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-55" value="communicate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="185" y="35.040000000000056" width="90" height="30" as="geometry" />
+          <mxGeometry x="-799" y="80.02000000000005" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-56" value="Goals" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="505" y="45.040000000000056" width="80" height="30" as="geometry" />
+          <mxGeometry x="-479" y="90.02000000000005" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sEhgoOJz0VxtFth73quX-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-57" target="sEhgoOJz0VxtFth73quX-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -268,19 +271,19 @@
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;dashed=1;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-72" target="ln6FcJClQyvE4a3wRQ_i-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="135" y="111.29000000000005" />
-              <mxPoint x="365" y="111.29000000000005" />
+              <mxPoint x="-849" y="156.27000000000004" />
+              <mxPoint x="-619" y="156.27000000000004" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-72" value="&lt;b&gt;Strategic&lt;br&gt;Alignment&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="75" y="210.04000000000013" width="80" height="40" as="geometry" />
+          <mxGeometry x="-909" y="255.02000000000015" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TevLKIAy9YhjM-IDDqqt-1" value="溝通" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="132" y="88.79000000000005" width="60" height="30" as="geometry" />
+          <mxGeometry x="-852" y="133.77000000000004" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TevLKIAy9YhjM-IDDqqt-2" value="參與" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="285" y="88.79000000000005" width="60" height="30" as="geometry" />
+          <mxGeometry x="-699" y="133.77000000000004" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TevLKIAy9YhjM-IDDqqt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;startArrow=none;startFill=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="TevLKIAy9YhjM-IDDqqt-4" target="ln6FcJClQyvE4a3wRQ_i-66" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -299,13 +302,13 @@
         <mxCell id="TevLKIAy9YhjM-IDDqqt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;startArrow=none;startFill=0;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="TevLKIAy9YhjM-IDDqqt-15" target="ln6FcJClQyvE4a3wRQ_i-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="774" y="15.040000000000056" />
-              <mxPoint x="385" y="15.040000000000056" />
+              <mxPoint x="-210" y="60.02000000000005" />
+              <mxPoint x="-599" y="60.02000000000005" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TevLKIAy9YhjM-IDDqqt-15" value="有助於決策" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="734" y="120.04000000000005" width="80" height="40" as="geometry" />
+          <mxGeometry x="-250" y="165.02000000000004" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="at9FaAFanRED1QmZHUpi-1" value="estimate likelihood" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="575" y="632.93" width="150" height="30" as="geometry" />
@@ -437,7 +440,7 @@
           <mxGeometry x="2360" y="750" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="at9FaAFanRED1QmZHUpi-52" value="Risk Capacity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="435" y="370.00000000000006" width="100" height="40" as="geometry" />
+          <mxGeometry x="-549" y="414.9800000000001" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sEhgoOJz0VxtFth73quX-1" value="&lt;span style=&quot;color: rgb(51, 51, 51); letter-spacing: 0.35px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Delphi Technique:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;a structured communication technique or method，幫助於預測或決策，這邊用來&lt;b&gt;識別風險&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1690" y="930" width="731" height="30" as="geometry" />
@@ -552,7 +555,7 @@
           <mxGeometry x="70" y="1250" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SDLIVgf6bMx2vHqrKDDa-27" value="&lt;div&gt;&amp;nbsp; &amp;nbsp;Description of the risk&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Potential Threat/Vulnerability&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Likelihood&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Impact&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Risk score&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Risk owner&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Controls implemented&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Residual risk&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Risk response action plan&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;align=left;dashed=1;arcSize=0;" parent="1" vertex="1">
-          <mxGeometry x="709" y="230" width="191" height="140" as="geometry" />
+          <mxGeometry x="709" y="240.04" width="191" height="140" as="geometry" />
         </mxCell>
         <mxCell id="SDLIVgf6bMx2vHqrKDDa-33" value="風險決策&lt;br&gt;風險處理" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="814" y="395.86" width="78" height="36.07" as="geometry" />
@@ -573,71 +576,71 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-6" value="&lt;b&gt;Quantitative&lt;br&gt;&lt;/b&gt;Risk analysis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-680" y="473.67999999999995" width="100" height="60" as="geometry" />
+          <mxGeometry x="-862" y="657.06" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lZBSud-YIM7QX_FMS43R-7" target="lZBSud-YIM7QX_FMS43R-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-7" value="&lt;b&gt;Qualitative&lt;br&gt;&lt;/b&gt;Risk analysis" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-618" y="588.5" width="100" height="60" as="geometry" />
+          <mxGeometry x="-800" y="771.8800000000001" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="lZBSud-YIM7QX_FMS43R-9" target="lZBSud-YIM7QX_FMS43R-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-9" value="&lt;b&gt;Semi-Quantitative&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="710.43" width="100" height="60" as="geometry" />
+          <mxGeometry x="-742" y="893.81" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lZBSud-YIM7QX_FMS43R-10" target="lZBSud-YIM7QX_FMS43R-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-10" value="&lt;b&gt;R = L x I&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-540" y="473.68" width="60" height="60" as="geometry" />
+          <mxGeometry x="-722" y="657.06" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lZBSud-YIM7QX_FMS43R-12" target="lZBSud-YIM7QX_FMS43R-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-12" value="Expected Monetary Value (EMV)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-440" y="473.68" width="160" height="60" as="geometry" />
+          <mxGeometry x="-622" y="657.06" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lZBSud-YIM7QX_FMS43R-15" target="lZBSud-YIM7QX_FMS43R-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-160" y="560" />
-              <mxPoint x="-568" y="560" />
+              <mxPoint x="-342" y="743.3800000000001" />
+              <mxPoint x="-750" y="743.3800000000001" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-15" value="總是以定量分析優先&lt;br&gt;除非沒有分析(可能性)數據" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="473.68" width="160" height="60" as="geometry" />
+          <mxGeometry x="-422" y="657.06" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lZBSud-YIM7QX_FMS43R-17" target="lZBSud-YIM7QX_FMS43R-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-17" value="&lt;b&gt;Threat &amp;amp; Impact 情境&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-458" y="588.5" width="140" height="60" as="geometry" />
+          <mxGeometry x="-640" y="771.8800000000001" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lZBSud-YIM7QX_FMS43R-19" target="lZBSud-YIM7QX_FMS43R-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-19" value="透過專家訪談，匿名問卷" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-278" y="588.5" width="90" height="60" as="geometry" />
+          <mxGeometry x="-460" y="771.8800000000001" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-22" value="當沒有分析數據，但又不希望過度主觀" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-410" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="-592" y="893.3800000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="lZBSud-YIM7QX_FMS43R-24" target="lZBSud-YIM7QX_FMS43R-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-110" y="680" />
-              <mxPoint x="-510" y="680" />
+              <mxPoint x="-292" y="863.3800000000001" />
+              <mxPoint x="-692" y="863.3800000000001" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-24" value="主觀" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-148" y="588.5" width="70" height="60" as="geometry" />
+          <mxGeometry x="-330" y="771.8800000000001" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Risk Analysis Methods&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-680" y="437.93" width="170" height="30" as="geometry" />
+          <mxGeometry x="-862" y="621.31" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;dashed=1;" parent="1" source="lZBSud-YIM7QX_FMS43R-31" target="lZBSud-YIM7QX_FMS43R-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -677,6 +680,9 @@
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-39" value="within&lt;br&gt;acceptable&lt;br&gt;level" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="290" y="1672" width="108" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="9qnvDsTE580gVhcHcqW_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="lZBSud-YIM7QX_FMS43R-43" target="9qnvDsTE580gVhcHcqW_-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-43" value="Accept Risk" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="465" y="1694" width="120" height="60" as="geometry" />
@@ -722,6 +728,18 @@
         </mxCell>
         <mxCell id="9qnvDsTE580gVhcHcqW_-5" value="&lt;span style=&quot;font-family: Lora, serif; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;project deliverables and milestone&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=17;" vertex="1" parent="1">
           <mxGeometry x="-710" y="1555" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9qnvDsTE580gVhcHcqW_-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="9qnvDsTE580gVhcHcqW_-8" target="9qnvDsTE580gVhcHcqW_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qnvDsTE580gVhcHcqW_-8" value="residual risk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-399" y="255.02" width="89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9qnvDsTE580gVhcHcqW_-10" value="acceptable risk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="255.02" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9qnvDsTE580gVhcHcqW_-12" value="Risk Appetite" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="638.13" y="1694" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
