@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T03:45:30.996Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Z63K3dfS44cbCzKkvus2" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-31T04:02:40.602Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="kMGu_gkMUlyDmz2JjGWr" version="18.1.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -828,7 +828,7 @@
           <mxGeometry x="520" y="780.77" width="61" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9qnvDsTE580gVhcHcqW_-50" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;CBA: 成本效益分析，C -&amp;gt; TCO&lt;br&gt;TCO: 建置成本 + 總維護成本&lt;br&gt;ROI: 投資多久回本&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="507.5" y="849.96" width="172.5" height="60" as="geometry" />
+          <mxGeometry x="735" y="769.96" width="172.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-1" target="5vowtt_naD49cerCg_K4-10">
           <mxGeometry relative="1" as="geometry">
@@ -850,19 +850,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-1" value="&lt;b&gt;Controls&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="940.26" width="83" height="45" as="geometry" />
+          <mxGeometry x="290" y="940.26" width="83" height="48.74" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-5" value="建議" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-4" target="5vowtt_naD49cerCg_K4-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5vowtt_naD49cerCg_K4-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-4" target="5vowtt_naD49cerCg_K4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-4" value="Risk practitioner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="940.26" width="90" height="45" as="geometry" />
+          <mxGeometry x="502" y="940.26" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-7" value="需求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-6" target="5vowtt_naD49cerCg_K4-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-6" value="Process Owner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="940.26" width="90" height="45" as="geometry" />
+          <mxGeometry x="90" y="940.26" width="90" height="47" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-8" value="Control Types" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="198" y="1036.26" width="83" height="45" as="geometry" />
@@ -878,6 +881,32 @@
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-16" value="reduce&lt;br&gt;vulnerability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1100" width="83" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="5vowtt_naD49cerCg_K4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-19" target="5vowtt_naD49cerCg_K4-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="1123" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5vowtt_naD49cerCg_K4-22" value="effectiveness, efficiency" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5vowtt_naD49cerCg_K4-21">
+          <mxGeometry x="0.1864" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5vowtt_naD49cerCg_K4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-19" target="9qnvDsTE580gVhcHcqW_-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="726" y="880" />
+              <mxPoint x="551" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5vowtt_naD49cerCg_K4-19" value="Post implementation review" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="672" y="940.26" width="108" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="5vowtt_naD49cerCg_K4-24" value="決定有效性跟效率，&lt;br&gt;以確保符合業務requirement, objectives&lt;br&gt;建置時的lessons learnt紀錄反饋" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="791" y="940.26" width="280" height="52.24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
