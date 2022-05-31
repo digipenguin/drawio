@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T08:10:46.889Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="PiVF6Q7FXZhSwuXTq1MB" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-31T08:15:21.282Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="EfhtOAFSs2iquw2EdcSg" version="18.1.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -841,11 +841,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-1" target="5vowtt_naD49cerCg_K4-8">
+        <mxCell id="5vowtt_naD49cerCg_K4-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-1" target="5vowtt_naD49cerCg_K4-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="332" y="1010" />
-              <mxPoint x="457" y="1010" />
+              <mxPoint x="79" y="1010" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -859,7 +859,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-4" value="Risk practitioner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="493" y="940.26" width="90" height="45" as="geometry" />
+          <mxGeometry x="461" y="940.26" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-7" value="需求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-6" target="5vowtt_naD49cerCg_K4-1">
           <mxGeometry relative="1" as="geometry" />
@@ -868,7 +868,7 @@
           <mxGeometry x="90" y="940.26" width="90" height="47" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-8" value="Control Types" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415.5" y="1030" width="83" height="45" as="geometry" />
+          <mxGeometry x="37" y="1030" width="83" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-10" target="5vowtt_naD49cerCg_K4-12">
           <mxGeometry relative="1" as="geometry" />
@@ -885,31 +885,31 @@
         <mxCell id="5vowtt_naD49cerCg_K4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-19" target="5vowtt_naD49cerCg_K4-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720" y="1099" />
+              <mxPoint x="690" y="1099" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-22" value="effectiveness, efficiency" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5vowtt_naD49cerCg_K4-21">
           <mxGeometry x="0.1864" y="1" relative="1" as="geometry">
-            <mxPoint x="80" y="-9" as="offset" />
+            <mxPoint x="70" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-19" target="9qnvDsTE580gVhcHcqW_-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="726" y="880" />
+              <mxPoint x="690" y="880" />
               <mxPoint x="551" y="880" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-19" value="Post implementation review" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="672" y="940.26" width="108" height="45" as="geometry" />
+          <mxGeometry x="631" y="940.26" width="108" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-24" value="決定有效性跟效率，&lt;br&gt;以確保符合業務requirement, objectives&amp;nbsp; &amp;gt;&lt;br&gt;識別lessons learnt紀錄反饋" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="791" y="940.26" width="280" height="52.24" as="geometry" />
+          <mxGeometry x="760" y="936.64" width="280" height="52.24" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-25" value="Control Testing&lt;br&gt;Effective Evaluation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="470.5" y="1160" width="160" height="71.75" as="geometry" />
+        <mxCell id="5vowtt_naD49cerCg_K4-25" value="Control &lt;b&gt;Testing&lt;/b&gt;&lt;br&gt;Effective Evaluation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1160" width="189.5" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
