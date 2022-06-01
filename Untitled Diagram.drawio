@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T09:15:06.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="e43_x0Z3ZP1o8UUwUifE" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T09:18:23.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="KzI5V9zCOIkdQbAzA73M" version="18.1.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="2522" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -765,6 +765,15 @@
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9qnvDsTE580gVhcHcqW_-21" target="5vowtt_naD49cerCg_K4-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CdHbCwtwvA5l2FbEcI3i-15" value="確認risk response後" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;dashed=1;" edge="1" parent="1" source="9qnvDsTE580gVhcHcqW_-21" target="CdHbCwtwvA5l2FbEcI3i-10">
+          <mxGeometry x="0.2689" y="5" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="710" />
+              <mxPoint x="10" y="265" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9qnvDsTE580gVhcHcqW_-21" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="227" y="679.96" width="209" height="220" as="geometry" />
