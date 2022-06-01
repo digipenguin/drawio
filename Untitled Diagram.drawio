@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T02:31:28.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="TlsXykyGdX73wCu-qonL" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T02:32:58.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="u6mzLa2VirHX-u1Mo0fR" version="18.1.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -295,11 +295,11 @@
         <mxCell id="sEhgoOJz0VxtFth73quX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;" parent="1" source="TevLKIAy9YhjM-IDDqqt-4" target="sEhgoOJz0VxtFth73quX-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TevLKIAy9YhjM-IDDqqt-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;Risk scenarios&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;align=center;" parent="1" vertex="1">
+        <mxCell id="TevLKIAy9YhjM-IDDqqt-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: calibri, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Risk scenarios&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF0000;align=center;" parent="1" vertex="1">
           <mxGeometry x="755" y="439.3299999999999" width="100" height="39.69" as="geometry" />
         </mxCell>
         <mxCell id="TevLKIAy9YhjM-IDDqqt-10" value="&lt;div style=&quot;text-align: left;&quot;&gt;Threat &amp;amp; vulnerability assessment&lt;/div&gt;威脅與弱點評估&lt;font color=&quot;#000000&quot;&gt;協助在&lt;/font&gt;風險情境&lt;font color=&quot;#000000&quot;&gt;中評估出&lt;/font&gt;&lt;b style=&quot;&quot;&gt;可能性&lt;/b&gt;&lt;font color=&quot;#000000&quot;&gt;與&lt;/font&gt;&lt;b style=&quot;&quot;&gt;衝擊&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="570" y="502.89" width="221" height="67.07" as="geometry" />
+          <mxGeometry x="574" y="479.02" width="221" height="67.07" as="geometry" />
         </mxCell>
         <mxCell id="TevLKIAy9YhjM-IDDqqt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;startArrow=none;startFill=0;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="TevLKIAy9YhjM-IDDqqt-15" target="ln6FcJClQyvE4a3wRQ_i-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -807,7 +807,7 @@
         <mxCell id="9qnvDsTE580gVhcHcqW_-35" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;低機率/高衝擊&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="99" y="815.96" width="92" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9qnvDsTE580gVhcHcqW_-37" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px; color: rgb(0, 0, 0); background-color: initial;&quot;&gt;most risky&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;higher liabilities&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#009900;" parent="1" vertex="1">
+        <mxCell id="9qnvDsTE580gVhcHcqW_-37" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px; color: rgb(0, 0, 0); background-color: initial;&quot;&gt;most risky 的選擇&lt;/span&gt;&lt;/div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: initial;&quot;&gt;higher liabilities&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="80" y="765.96" width="111" height="38" as="geometry" />
         </mxCell>
         <mxCell id="9qnvDsTE580gVhcHcqW_-40" value="&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#000000&quot;&gt;outsourcing&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#009900;" parent="1" vertex="1">
