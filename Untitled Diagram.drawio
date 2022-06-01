@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T02:25:42.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="mWzrkG619Gz2m8aPd9xb" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T02:26:51.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Paqss8L4jESBKLsU7p1f" version="18.1.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -879,6 +879,12 @@
         <mxCell id="5vowtt_naD49cerCg_K4-12" value="ISO27001&lt;br&gt;COBIT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="1103.74" width="83" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="FcF8g3jXa-vy7sWxlQh_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-16" target="5vowtt_naD49cerCg_K4-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FcF8g3jXa-vy7sWxlQh_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-16" target="5vowtt_naD49cerCg_K4-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-16" value="reduce&lt;br&gt;vulnerability" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="1076" width="83" height="45" as="geometry" />
         </mxCell>
@@ -912,10 +918,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-42" value="Risk practitioner" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="435" y="1192" width="90" height="45" as="geometry" />
+          <mxGeometry x="490.5" y="1200" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-44" value="Assist in planning, reporting, schedule tests" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="569.25" y="1192" width="165.75" height="45" as="geometry" />
+          <mxGeometry x="624.75" y="1200" width="165.75" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="5vowtt_naD49cerCg_K4-46" target="5vowtt_naD49cerCg_K4-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -923,39 +929,39 @@
         <mxCell id="5vowtt_naD49cerCg_K4-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="5vowtt_naD49cerCg_K4-46" target="5vowtt_naD49cerCg_K4-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="1343" />
+              <mxPoint x="415.5" y="1351" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="5vowtt_naD49cerCg_K4-46" target="5vowtt_naD49cerCg_K4-66" edge="1">
+        <mxCell id="FcF8g3jXa-vy7sWxlQh_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-46" target="5vowtt_naD49cerCg_K4-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Control Monitoring&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="1192" width="90" height="45" as="geometry" />
+          <mxGeometry x="345.5" y="1200" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="5vowtt_naD49cerCg_K4-49" target="5vowtt_naD49cerCg_K4-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-49" value="&lt;b&gt;Maintaining Controls&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
-          <mxGeometry x="421" y="1288.25" width="251" height="110" as="geometry" />
+          <mxGeometry x="476.5" y="1296.25" width="251" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-50" value="effectiveness" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="438.5" y="1330.98" width="84" height="51.75" as="geometry" />
+          <mxGeometry x="494" y="1338.98" width="84" height="51.75" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-51" value="balance" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="5vowtt_naD49cerCg_K4-52" target="5vowtt_naD49cerCg_K4-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-52" value="cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="589.5" y="1330.98" width="64" height="51.75" as="geometry" />
+          <mxGeometry x="645" y="1338.98" width="64" height="51.75" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="5vowtt_naD49cerCg_K4-55" target="5vowtt_naD49cerCg_K4-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-55" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Key&lt;br&gt;External&lt;br&gt;Requirements&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="721" y="1313.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="776.5" y="1321.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-56" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Compliance&lt;br&gt;regulatory&lt;br&gt;legal&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="880" y="1313.25" width="120" height="60" as="geometry" />
+          <mxGeometry x="935.5" y="1321.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="5vowtt_naD49cerCg_K4-60" target="5vowtt_naD49cerCg_K4-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -964,22 +970,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-60" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Control Testing&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="1192" width="90" height="45" as="geometry" />
+          <mxGeometry x="205.5" y="1200" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="5vowtt_naD49cerCg_K4-62" target="5vowtt_naD49cerCg_K4-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-62" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Control effectiveness&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="1268.25" width="90" height="45" as="geometry" />
+          <mxGeometry x="205.5" y="1276.25" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-64" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;identitfy faults&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="1353.25" width="90" height="45" as="geometry" />
+          <mxGeometry x="205.5" y="1361.25" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-66" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Control risk&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="295" y="1379.48" width="80" height="45" as="geometry" />
+          <mxGeometry x="350.5" y="1364.48" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="FcF8g3jXa-vy7sWxlQh_-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Achieve &lt;br&gt;desire state&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="25" y="1192" width="90" height="45" as="geometry" />
+          <mxGeometry x="64.5" y="1200" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
