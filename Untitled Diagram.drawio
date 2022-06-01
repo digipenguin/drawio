@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T13:01:19.480Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="44aavTz60q5Ddx-_Ruir" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-01T02:25:42.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="mWzrkG619Gz2m8aPd9xb" version="18.1.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
-    <mxGraphModel dx="3076" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -758,7 +758,7 @@
         <mxCell id="9qnvDsTE580gVhcHcqW_-19" value="Resource" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1340" y="1620" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9qnvDsTE580gVhcHcqW_-21" target="5vowtt_naD49cerCg_K4-1">
+        <mxCell id="5vowtt_naD49cerCg_K4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9qnvDsTE580gVhcHcqW_-21" target="5vowtt_naD49cerCg_K4-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9qnvDsTE580gVhcHcqW_-21" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
@@ -830,10 +830,10 @@
         <mxCell id="9qnvDsTE580gVhcHcqW_-50" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;CBA: 成本效益分析，C -&amp;gt; TCO&lt;br&gt;TCO: 建置成本 + 總維護成本&lt;br&gt;ROI: 投資多久回本&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="735" y="769.96" width="172.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-1" target="5vowtt_naD49cerCg_K4-16">
+        <mxCell id="5vowtt_naD49cerCg_K4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5vowtt_naD49cerCg_K4-1" target="5vowtt_naD49cerCg_K4-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-1" target="5vowtt_naD49cerCg_K4-10">
+        <mxCell id="5vowtt_naD49cerCg_K4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="5vowtt_naD49cerCg_K4-1" target="5vowtt_naD49cerCg_K4-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="332" y="1010" />
@@ -841,7 +841,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-1" target="5vowtt_naD49cerCg_K4-8">
+        <mxCell id="5vowtt_naD49cerCg_K4-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="5vowtt_naD49cerCg_K4-1" target="5vowtt_naD49cerCg_K4-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="332" y="1010" />
@@ -849,52 +849,52 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-1" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Controls&lt;br&gt;Design&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-1" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Controls&lt;br&gt;Design&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="940.26" width="83" height="48.74" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-5" value="建議" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-4" target="5vowtt_naD49cerCg_K4-1">
+        <mxCell id="5vowtt_naD49cerCg_K4-5" value="建議" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="5vowtt_naD49cerCg_K4-4" target="5vowtt_naD49cerCg_K4-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-4" target="5vowtt_naD49cerCg_K4-19">
+        <mxCell id="5vowtt_naD49cerCg_K4-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5vowtt_naD49cerCg_K4-4" target="5vowtt_naD49cerCg_K4-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-4" value="Risk practitioner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-4" value="Risk practitioner" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="461" y="940.26" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-7" value="需求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-6" target="5vowtt_naD49cerCg_K4-1">
+        <mxCell id="5vowtt_naD49cerCg_K4-7" value="需求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5vowtt_naD49cerCg_K4-6" target="5vowtt_naD49cerCg_K4-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-6" value="Process Owner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-6" value="Process Owner" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="940.26" width="90" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-8" value="Control Types" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-8" value="Control Types" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="37" y="1030" width="83" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-10" target="5vowtt_naD49cerCg_K4-12">
+        <mxCell id="5vowtt_naD49cerCg_K4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5vowtt_naD49cerCg_K4-10" target="5vowtt_naD49cerCg_K4-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-10" value="Control Framework&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-10" value="Control Framework&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="1030" width="83" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-12" value="ISO27001&lt;br&gt;COBIT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-12" value="ISO27001&lt;br&gt;COBIT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="1103.74" width="83" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-16" value="reduce&lt;br&gt;vulnerability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-16" value="reduce&lt;br&gt;vulnerability" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="1076" width="83" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-19" target="5vowtt_naD49cerCg_K4-16">
+        <mxCell id="5vowtt_naD49cerCg_K4-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5vowtt_naD49cerCg_K4-19" target="5vowtt_naD49cerCg_K4-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="1099" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-22" value="effectiveness, efficiency" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5vowtt_naD49cerCg_K4-21">
+        <mxCell id="5vowtt_naD49cerCg_K4-22" value="effectiveness, efficiency" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5vowtt_naD49cerCg_K4-21" vertex="1" connectable="0">
           <mxGeometry x="0.1864" y="1" relative="1" as="geometry">
             <mxPoint x="70" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-19" target="9qnvDsTE580gVhcHcqW_-48">
+        <mxCell id="5vowtt_naD49cerCg_K4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="5vowtt_naD49cerCg_K4-19" target="9qnvDsTE580gVhcHcqW_-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="880" />
@@ -902,78 +902,84 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-19" value="Post implementation review" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-19" value="Post implementation review" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="631" y="940.26" width="108" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-24" value="決定有效性跟效率，&lt;br&gt;以確保符合業務requirement, objectives&amp;nbsp; &amp;gt;&lt;br&gt;識別lessons learnt紀錄反饋" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-24" value="決定有效性跟效率，&lt;br&gt;以確保符合業務requirement, objectives&amp;nbsp; &amp;gt;&lt;br&gt;識別lessons learnt紀錄反饋" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="760" y="936.64" width="280" height="52.24" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-42" target="5vowtt_naD49cerCg_K4-44">
+        <mxCell id="5vowtt_naD49cerCg_K4-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="5vowtt_naD49cerCg_K4-42" target="5vowtt_naD49cerCg_K4-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-42" value="Risk practitioner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-42" value="Risk practitioner" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="435" y="1192" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-44" value="Assist in planning, reporting, schedule tests" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-44" value="Assist in planning, reporting, schedule tests" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="569.25" y="1192" width="165.75" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-46" target="5vowtt_naD49cerCg_K4-42">
+        <mxCell id="5vowtt_naD49cerCg_K4-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="5vowtt_naD49cerCg_K4-46" target="5vowtt_naD49cerCg_K4-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-46" target="5vowtt_naD49cerCg_K4-49">
+        <mxCell id="5vowtt_naD49cerCg_K4-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="5vowtt_naD49cerCg_K4-46" target="5vowtt_naD49cerCg_K4-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="1343" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-46" target="5vowtt_naD49cerCg_K4-66">
+        <mxCell id="5vowtt_naD49cerCg_K4-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="5vowtt_naD49cerCg_K4-46" target="5vowtt_naD49cerCg_K4-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Control Monitoring&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Control Monitoring&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="1192" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-49" target="5vowtt_naD49cerCg_K4-55">
+        <mxCell id="5vowtt_naD49cerCg_K4-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="5vowtt_naD49cerCg_K4-49" target="5vowtt_naD49cerCg_K4-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-49" value="&lt;b&gt;Maintaining Controls&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-49" value="&lt;b&gt;Maintaining Controls&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="421" y="1288.25" width="251" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-50" value="effectiveness" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-50" value="effectiveness" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="438.5" y="1330.98" width="84" height="51.75" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-51" value="balance" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-52" target="5vowtt_naD49cerCg_K4-50">
+        <mxCell id="5vowtt_naD49cerCg_K4-51" value="balance" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="5vowtt_naD49cerCg_K4-52" target="5vowtt_naD49cerCg_K4-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-52" value="cost" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-52" value="cost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="589.5" y="1330.98" width="64" height="51.75" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-55" target="5vowtt_naD49cerCg_K4-56">
+        <mxCell id="5vowtt_naD49cerCg_K4-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="5vowtt_naD49cerCg_K4-55" target="5vowtt_naD49cerCg_K4-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-55" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Key&lt;br&gt;External&lt;br&gt;Requirements&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-55" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Key&lt;br&gt;External&lt;br&gt;Requirements&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="721" y="1313.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-56" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Compliance&lt;br&gt;regulatory&lt;br&gt;legal&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-56" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Compliance&lt;br&gt;regulatory&lt;br&gt;legal&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="880" y="1313.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-60" target="5vowtt_naD49cerCg_K4-62">
+        <mxCell id="5vowtt_naD49cerCg_K4-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="5vowtt_naD49cerCg_K4-60" target="5vowtt_naD49cerCg_K4-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-60" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Control Testing&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FcF8g3jXa-vy7sWxlQh_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-60" target="FcF8g3jXa-vy7sWxlQh_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5vowtt_naD49cerCg_K4-60" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Control Testing&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="1192" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-62" target="5vowtt_naD49cerCg_K4-64">
+        <mxCell id="5vowtt_naD49cerCg_K4-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="5vowtt_naD49cerCg_K4-62" target="5vowtt_naD49cerCg_K4-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-62" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Control effectiveness&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-62" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Control effectiveness&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="1268.25" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-64" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;identitfy faults&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-64" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;identitfy faults&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="1353.25" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-66" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Control risk&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5vowtt_naD49cerCg_K4-66" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Control risk&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="295" y="1379.48" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="FcF8g3jXa-vy7sWxlQh_-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Achieve &lt;br&gt;desire state&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="1192" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
