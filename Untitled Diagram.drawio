@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T12:29:35.540Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="4xcE8S3Z9s9d0R516qIJ" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T13:02:26.024Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="4vnt-cOwh_-7zT5P5yD-" version="18.2.0" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -999,14 +999,14 @@
         <mxCell id="5vowtt_naD49cerCg_K4-64" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;identitfy faults&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="205.5" y="1420.48" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="5vowtt_naD49cerCg_K4-66" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Control risk&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350.5" y="1411.96" width="80" height="45" as="geometry" />
+        <mxCell id="5vowtt_naD49cerCg_K4-66" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;第一步&lt;br&gt;Capability assessment&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350.5" y="1411.96" width="80" height="58.04" as="geometry" />
         </mxCell>
         <mxCell id="FcF8g3jXa-vy7sWxlQh_-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Desire state&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Control Objective&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="1246" width="114.5" height="45" as="geometry" />
         </mxCell>
         <mxCell id="FcF8g3jXa-vy7sWxlQh_-6" value="Control risk: 無法透過控制來降低的風險" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="332.25" y="1466.96" width="229.5" height="30" as="geometry" />
+          <mxGeometry x="487.25" y="1505.46" width="229.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CdHbCwtwvA5l2FbEcI3i-5" value="沒有產生新漏洞" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="205.5" y="1497.96" width="90" height="45" as="geometry" />
@@ -1056,7 +1056,7 @@
         <mxCell id="MPvOSbPgiwu6BQYYfZwY-3" value="&amp;nbsp; maturity&lt;br&gt;&amp;nbsp; capability assessment" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="625" y="1179" width="135" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="qjpCNBv3XMVa1_OW28Dz-1" value="Monitoring" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="qjpCNBv3XMVa1_OW28Dz-1" value="Monitoring&lt;br&gt;Reporting" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="510" y="2130" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
