@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T07:17:54.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="wM4Fpj4UqAZajS15mjMi" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T07:19:16.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="Bu5LrD5fN6-Rz0RZfXaU" version="18.2.0" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="2522" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -941,6 +941,13 @@
         <mxCell id="FcF8g3jXa-vy7sWxlQh_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="5vowtt_naD49cerCg_K4-46" target="5vowtt_naD49cerCg_K4-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MPvOSbPgiwu6BQYYfZwY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="5vowtt_naD49cerCg_K4-46" target="MPvOSbPgiwu6BQYYfZwY-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="1202" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Control Monitoring&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="345.5" y="1247.48" width="90" height="45" as="geometry" />
         </mxCell>
@@ -1036,6 +1043,15 @@
         </mxCell>
         <mxCell id="d2y9wg4KpSB0BLqYADkA-5" value="Risk Practitioner" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="28.75" width="110" height="37.51" as="geometry" />
+        </mxCell>
+        <mxCell id="MPvOSbPgiwu6BQYYfZwY-4" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MPvOSbPgiwu6BQYYfZwY-1" target="MPvOSbPgiwu6BQYYfZwY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPvOSbPgiwu6BQYYfZwY-1" value="risk monitoring framework" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="486" y="1179" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="MPvOSbPgiwu6BQYYfZwY-3" value="&amp;nbsp; maturity&lt;br&gt;&amp;nbsp; capability assessment" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="615" y="1179" width="135" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
