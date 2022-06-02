@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T07:19:16.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="Bu5LrD5fN6-Rz0RZfXaU" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T07:19:27.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="RC9zSPNHgUnJHM37gdms" version="18.2.0" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="2522" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1051,7 +1051,7 @@
           <mxGeometry x="486" y="1179" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="MPvOSbPgiwu6BQYYfZwY-3" value="&amp;nbsp; maturity&lt;br&gt;&amp;nbsp; capability assessment" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="615" y="1179" width="135" height="45" as="geometry" />
+          <mxGeometry x="625" y="1179" width="135" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
