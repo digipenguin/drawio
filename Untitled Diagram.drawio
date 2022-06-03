@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T08:17:48.332Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="5VfRXcXnNVmGT4Fu3E5X" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T08:17:54.564Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="T_DlPs1xWdj1-4oL_6no" version="18.2.0" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1084,7 +1084,7 @@
           <mxGeometry x="812" y="2132.5" width="138" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-7" value="&lt;font color=&quot;#000000&quot;&gt;Risk owner&lt;br&gt;Current State&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="675" y="2280" width="90" height="50" as="geometry" />
+          <mxGeometry x="675" y="2266" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
