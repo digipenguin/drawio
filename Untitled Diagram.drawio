@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T08:17:54.564Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="T_DlPs1xWdj1-4oL_6no" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T08:26:12.212Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="YCzClKHkKG78QMgYsF-w" version="18.2.0" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -693,7 +693,7 @@
           <mxGeometry x="510" y="2014" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-45" value="&lt;div style=&quot;&quot;&gt;風險管理的主要目標：確保residual risk 在可接受範圍 (acceptable level)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="105" y="2210" width="422.5" height="40" as="geometry" />
+          <mxGeometry x="99" y="2250" width="422.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="lZBSud-YIM7QX_FMS43R-46" target="lZBSud-YIM7QX_FMS43R-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1085,6 +1085,12 @@
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-7" value="&lt;font color=&quot;#000000&quot;&gt;Risk owner&lt;br&gt;Current State&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="675" y="2266" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="ppujjk4q9aCOOOV1Y9fn-9" target="ppujjk4q9aCOOOV1Y9fn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-9" value="&lt;font color=&quot;#000000&quot;&gt;Independent team&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="836" y="2240" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
