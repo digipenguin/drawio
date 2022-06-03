@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T08:58:18.745Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="5pZElq-ky7x8qYvg0xaW" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T12:49:45.696Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="lVoroWZEZSxuPYeJdR-H" version="18.2.0" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1120,6 +1120,60 @@
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-28" value="&lt;font color=&quot;#000000&quot;&gt;Risk Response Stage&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000FF;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="2140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-30" value="&lt;b&gt;KPI&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1914.5" y="1992" width="70" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-49" value="inversely&lt;br&gt;correlated" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;fontColor=#000000;startArrow=classic;startFill=1;" edge="1" parent="1" source="ppujjk4q9aCOOOV1Y9fn-32" target="ppujjk4q9aCOOOV1Y9fn-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-32" value="&lt;b&gt;KRI&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2098.5" y="1992" width="70" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-34" value="&lt;b&gt;KCI&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2299.5" y="1992" width="70" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-35" value="buiness targets" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1884.5" y="2059" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-36" value="risk profile" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2098.5" y="2059" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-37" value="&lt;b&gt;Monitoring&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="2059" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-38" value="effectiveness of controls" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2299.5" y="2059" width="154.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-39" value="Are we achieving desired level?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1884.5" y="2130" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-40" value="How is risk profile?&lt;br&gt;Is it within tolerance level?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2095" y="2130" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-41" value="Are our controls effective?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2299" y="2132.5" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-42" value="&lt;b&gt;Question&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1781" y="2132.5" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-43" value="senior management" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="2200" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-44" value="risk team, internal audit and regulator" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2095" y="2200" width="369" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-45" value="&lt;b&gt;Subject&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="2200" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-46" value="&lt;b&gt;Indicators&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1775" y="2255" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-47" value="strategic indicators" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="2255" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-48" value="operational indicators" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="2095" y="2255" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
