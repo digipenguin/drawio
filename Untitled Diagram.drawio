@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-03T08:26:12.212Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="YCzClKHkKG78QMgYsF-w" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-03T08:58:18.745Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="5pZElq-ky7x8qYvg0xaW" version="18.2.0" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -650,8 +650,10 @@
         <mxCell id="lZBSud-YIM7QX_FMS43R-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;dashed=1;" parent="1" source="lZBSud-YIM7QX_FMS43R-31" target="lZBSud-YIM7QX_FMS43R-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lZBSud-YIM7QX_FMS43R-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="lZBSud-YIM7QX_FMS43R-31" target="lZBSud-YIM7QX_FMS43R-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="lZBSud-YIM7QX_FMS43R-40" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;evaluate&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="lZBSud-YIM7QX_FMS43R-31" target="lZBSud-YIM7QX_FMS43R-39" edge="1">
+          <mxGeometry x="-0.2473" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-31" value="Inherent Risk" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="140" y="1890" width="120" height="60" as="geometry" />
@@ -1059,9 +1061,6 @@
         <mxCell id="MPvOSbPgiwu6BQYYfZwY-3" value="&amp;nbsp; maturity&lt;br&gt;&amp;nbsp; capability assessment" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="625" y="1179" width="135" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ppujjk4q9aCOOOV1Y9fn-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qjpCNBv3XMVa1_OW28Dz-1" target="ppujjk4q9aCOOOV1Y9fn-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="qjpCNBv3XMVa1_OW28Dz-1" value="&lt;font color=&quot;#0000ff&quot;&gt;Monitoring&lt;br&gt;Reporting&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="510" y="2130" width="100" height="60" as="geometry" />
         </mxCell>
@@ -1072,6 +1071,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-8" value="report&lt;br&gt;determine" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="ppujjk4q9aCOOOV1Y9fn-1" target="ppujjk4q9aCOOOV1Y9fn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-27" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="ppujjk4q9aCOOOV1Y9fn-1" target="qjpCNBv3XMVa1_OW28Dz-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-1" value="KRI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -1091,6 +1093,33 @@
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-9" value="&lt;font color=&quot;#000000&quot;&gt;Independent team&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="836" y="2240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-15" value="Lag indicators&lt;br&gt;KRI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1133" y="1999" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-16" value="Lead indicators&lt;br&gt;KRI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1521" y="1999" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="ppujjk4q9aCOOOV1Y9fn-17" target="ppujjk4q9aCOOOV1Y9fn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="ppujjk4q9aCOOOV1Y9fn-17" target="ppujjk4q9aCOOOV1Y9fn-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-17" value="Now" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1999" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-20" value="已經發生的落後指標&lt;br&gt;蒐集資料報告&lt;br&gt;經驗學習" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1245" y="2059" width="135" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-21" value="還沒發生的領先指標&lt;br&gt;風險預測&lt;br&gt;監控current state&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="2059" width="135" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-29" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;" edge="1" parent="1" source="ppujjk4q9aCOOOV1Y9fn-28" target="ppujjk4q9aCOOOV1Y9fn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-28" value="&lt;font color=&quot;#000000&quot;&gt;Risk Response Stage&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000FF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="2140" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
