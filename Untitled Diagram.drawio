@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T01:45:24.642Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="CA66hafnFSCwfR-o8Fha" version="18.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-04T01:51:18.201Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="loxgN_VDS5Pux5PFE_sT" version="18.2.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -399,13 +399,13 @@
         <mxCell id="at9FaAFanRED1QmZHUpi-38" value="&lt;font color=&quot;#000000&quot;&gt;risk mgnt status&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" parent="1" source="at9FaAFanRED1QmZHUpi-25" target="at9FaAFanRED1QmZHUpi-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="at9FaAFanRED1QmZHUpi-25" value="&lt;b&gt;Risk&amp;nbsp;&lt;/b&gt;&lt;b&gt;practitioner&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="at9FaAFanRED1QmZHUpi-25" value="&lt;b&gt;Risk P&lt;/b&gt;&lt;b&gt;ractitioner&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2110" y="500" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="at9FaAFanRED1QmZHUpi-27" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;1.&lt;font color=&quot;#ff0000&quot;&gt;發展&lt;/font&gt;RM框架政策標準程序&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;2.確保1st有遵守政策執行&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2300" y="495" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="at9FaAFanRED1QmZHUpi-29" value="&lt;b&gt;Senior management&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="at9FaAFanRED1QmZHUpi-29" value="Senior Management" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2100" y="593.5" width="130" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="at9FaAFanRED1QmZHUpi-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;" parent="1" source="at9FaAFanRED1QmZHUpi-30" target="at9FaAFanRED1QmZHUpi-32" edge="1">
@@ -426,7 +426,7 @@
         <mxCell id="at9FaAFanRED1QmZHUpi-32" value="&lt;b&gt;獨立稽核單位&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2110" y="669" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="at9FaAFanRED1QmZHUpi-34" value="&lt;b&gt;Board of directors&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="at9FaAFanRED1QmZHUpi-34" value="Board of directors" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2105" y="746" width="120" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="at9FaAFanRED1QmZHUpi-39" value="&lt;b&gt;1.評估1st &amp;amp; 2nd有效性&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;2.提供&lt;font color=&quot;#ff0000&quot;&gt;assurance&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;可靠性&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
@@ -438,7 +438,7 @@
         <mxCell id="at9FaAFanRED1QmZHUpi-45" value="風險執行者" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="2480" y="397.93" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="at9FaAFanRED1QmZHUpi-46" value="設計者" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="at9FaAFanRED1QmZHUpi-46" value="法遵設計者" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="2481" y="500" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="at9FaAFanRED1QmZHUpi-47" value="查核者" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF0000;" parent="1" vertex="1">
