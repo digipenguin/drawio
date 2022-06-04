@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T01:44:53.123Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_zjyrwkuhZbYF5a9uLan" version="18.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-04T01:45:06.415Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="uEGVquiCe4RmlNnsRwCN" version="18.2.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1258,8 +1258,8 @@
         <mxCell id="JK4otoB0jXalJQ3BIUNk-22" value="頻繁溝通有效性" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;curved=1;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="JK4otoB0jXalJQ3BIUNk-23" target="JK4otoB0jXalJQ3BIUNk-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1335" y="2510" />
-              <mxPoint x="1687" y="2510" />
+              <mxPoint x="1335" y="2520" />
+              <mxPoint x="1687" y="2520" />
             </Array>
           </mxGeometry>
         </mxCell>
