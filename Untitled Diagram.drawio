@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T01:23:39.096Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="L42UyX5UbXfKHeoYICcA" version="18.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-04T01:26:48.112Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ZXxdGt-pL6_2yiXWJe4-" version="18.2.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -661,8 +661,10 @@
         <mxCell id="lZBSud-YIM7QX_FMS43R-31" value="Inherent Risk" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="140" y="1890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lZBSud-YIM7QX_FMS43R-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="lZBSud-YIM7QX_FMS43R-32" target="lZBSud-YIM7QX_FMS43R-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="lZBSud-YIM7QX_FMS43R-42" value="risk owner" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="lZBSud-YIM7QX_FMS43R-32" target="lZBSud-YIM7QX_FMS43R-39" edge="1">
+          <mxGeometry x="-0.3258" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-32" value="Residual Risk" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="140" y="2130" width="120" height="60" as="geometry" />
@@ -1193,7 +1195,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-52" value="KRI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="518.5" y="2504.19" width="60" height="60" as="geometry" />
+          <mxGeometry x="403.18" y="2494.19" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-57" value="update" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;startArrow=none;startFill=0;" parent="1" source="ppujjk4q9aCOOOV1Y9fn-53" target="ppujjk4q9aCOOOV1Y9fn-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1205,43 +1207,69 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-53" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Risk Profile&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="685.5" y="2504.19" width="92" height="60" as="geometry" />
+          <mxGeometry x="570.1800000000001" y="2494.19" width="92" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-55" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Risk Register&lt;/font&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="887.5" y="2460" width="92.5" height="62.37" as="geometry" />
+          <mxGeometry x="772.1800000000001" y="2450" width="92.5" height="62.37" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-58" value="週期性" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/bold-purple-free-samples/32/Arrows_Refresh_Replace_Round_Circle-128.png" parent="1" vertex="1">
-          <mxGeometry x="530.8199999999999" y="2570.37" width="40.68" height="40.68" as="geometry" />
+          <mxGeometry x="415.49999999999994" y="2560.37" width="40.68" height="40.68" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-62" value="造成變化" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;startArrow=none;startFill=0;" parent="1" source="ppujjk4q9aCOOOV1Y9fn-61" target="ppujjk4q9aCOOOV1Y9fn-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-61" value="建置新技術&lt;br&gt;企業流程變更&lt;br&gt;法規需求變更&lt;br&gt;客戶需求變更&lt;br&gt;競爭者政策變更" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="686" y="2624.19" width="91.5" height="83" as="geometry" />
+          <mxGeometry x="570.6800000000001" y="2614.19" width="91.5" height="83" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-63" value="&lt;b&gt;additional response&lt;/b&gt;&lt;br&gt;&lt;b&gt;decision&lt;/b&gt; making" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="666.09" y="2410" width="130" height="40" as="geometry" />
+          <mxGeometry x="550.77" y="2400" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-65" value="Organization goals aligned" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="887.5" y="2551.05" width="92" height="60" as="geometry" />
+          <mxGeometry x="772.1800000000001" y="2541.05" width="92" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-67" value="senior management" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="565" y="2415" width="86" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JK4otoB0jXalJQ3BIUNk-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Risk Register&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="2380" width="190" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="JK4otoB0jXalJQ3BIUNk-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Risk Profile&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1107" y="2424.19" width="80" height="34.19" as="geometry" />
-        </mxCell>
-        <mxCell id="JK4otoB0jXalJQ3BIUNk-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Action Plan&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1196" y="2424.19" width="80" height="34.19" as="geometry" />
+          <mxGeometry x="449.68" y="2405" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JK4otoB0jXalJQ3BIUNk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="JK4otoB0jXalJQ3BIUNk-5" target="ppujjk4q9aCOOOV1Y9fn-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JK4otoB0jXalJQ3BIUNk-5" value="Risk Response&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="340" y="2504.19" width="120" height="60" as="geometry" />
+          <mxGeometry x="224.68" y="2494.19" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JK4otoB0jXalJQ3BIUNk-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="990" y="2400" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JK4otoB0jXalJQ3BIUNk-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Risk Register&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="JK4otoB0jXalJQ3BIUNk-11">
+          <mxGeometry width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JK4otoB0jXalJQ3BIUNk-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Risk Profile&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="JK4otoB0jXalJQ3BIUNk-11">
+          <mxGeometry x="7" y="44.190000000000055" width="80" height="34.19" as="geometry" />
+        </mxCell>
+        <mxCell id="JK4otoB0jXalJQ3BIUNk-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Action Plan&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="JK4otoB0jXalJQ3BIUNk-11">
+          <mxGeometry x="96" y="44.190000000000055" width="80" height="34.19" as="geometry" />
+        </mxCell>
+        <mxCell id="JK4otoB0jXalJQ3BIUNk-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Action Plan&lt;/b&gt;&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="2420" width="94.5" height="55.01" as="geometry" />
+        </mxCell>
+        <mxCell id="JK4otoB0jXalJQ3BIUNk-19" value="decision" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JK4otoB0jXalJQ3BIUNk-20" target="JK4otoB0jXalJQ3BIUNk-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK4otoB0jXalJQ3BIUNk-20" value="Risk Owner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1646.5" y="2428.75" width="80" height="37.51" as="geometry" />
+        </mxCell>
+        <mxCell id="JK4otoB0jXalJQ3BIUNk-21" value="consult" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JK4otoB0jXalJQ3BIUNk-23" target="JK4otoB0jXalJQ3BIUNk-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK4otoB0jXalJQ3BIUNk-22" value="經常溝通有效性" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;curved=1;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="JK4otoB0jXalJQ3BIUNk-23" target="JK4otoB0jXalJQ3BIUNk-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1335" y="2510" />
+              <mxPoint x="1687" y="2510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JK4otoB0jXalJQ3BIUNk-23" value="Risk Practitioner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="2428.75" width="110" height="37.51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
