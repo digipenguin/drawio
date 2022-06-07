@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T09:09:58.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="mSOKEVaGt4Cwh5i__BIB" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-07T09:15:03.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="fechD08Bduy1i3U0Kx3Q" version="18.2.0" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1027,8 +1027,8 @@
         <mxCell id="FcF8g3jXa-vy7sWxlQh_-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Desire state&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Control Objective&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="1246" width="114.5" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="FcF8g3jXa-vy7sWxlQh_-6" value="Control risk: 無法透過控制來降低的風險" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="487.25" y="1453.73" width="229.5" height="30" as="geometry" />
+        <mxCell id="FcF8g3jXa-vy7sWxlQh_-6" value="Control risk: 無法透過控制來降低的風險&lt;br&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Relevance Risk: 正確資料給錯人&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="487.25" y="1465.48" width="229.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CdHbCwtwvA5l2FbEcI3i-5" value="沒有產生新漏洞" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="205.5" y="1497.96" width="90" height="45" as="geometry" />
