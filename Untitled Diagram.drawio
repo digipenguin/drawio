@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T04:15:11.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="Hu2K3MBSk5fd00Usg12g" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-07T04:16:52.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="t2bGcrHW0w9JBGYv9UDv" version="18.2.0" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -430,7 +430,7 @@
           <mxGeometry x="2110" y="669" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="at9FaAFanRED1QmZHUpi-34" value="Board of directors" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2105" y="746" width="120" height="37.5" as="geometry" />
+          <mxGeometry x="2105" y="796.25" width="120" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="at9FaAFanRED1QmZHUpi-39" value="&lt;b&gt;1.評估1st &amp;amp; 2nd有效性&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;2.提供&lt;font color=&quot;#ff0000&quot;&gt;assurance&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;可靠性&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="2300" y="669" width="150" height="40" as="geometry" />
