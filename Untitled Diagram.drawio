@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T00:37:01.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="_5z6ZAnsPqFR8GdPf2Mn" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-10T07:48:39.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="prc8nCBXJu52KgcbwqGv" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1817,6 +1817,21 @@
         </mxCell>
         <mxCell id="FXxkkbOfWT-pd1TcEbKr-144" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;maturity&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;capability assessment&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="415.5" y="2230" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="8Z34IDBe5-Kjp-l9RT7u-3" value="建立" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="8Z34IDBe5-Kjp-l9RT7u-1" target="8Z34IDBe5-Kjp-l9RT7u-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Z34IDBe5-Kjp-l9RT7u-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="8Z34IDBe5-Kjp-l9RT7u-1" target="8Z34IDBe5-Kjp-l9RT7u-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8Z34IDBe5-Kjp-l9RT7u-1" value="&lt;font color=&quot;#000000&quot;&gt;IT Risk Framework&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="-1575" y="759.96" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Z34IDBe5-Kjp-l9RT7u-2" value="&lt;font color=&quot;#000000&quot;&gt;Accountabilitu &amp;amp; Responsibility&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="-1365.41" y="759.96" width="125.41" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Z34IDBe5-Kjp-l9RT7u-4" value="&lt;font color=&quot;#000000&quot;&gt;一致性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#0000FF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-1545" y="862.21" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
