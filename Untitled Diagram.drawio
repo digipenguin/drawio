@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-10T00:36:33.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="AyGPFMwNHLrHKG2RD6nx" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-10T00:37:01.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="_5z6ZAnsPqFR8GdPf2Mn" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -466,8 +466,8 @@
         <mxCell id="at9FaAFanRED1QmZHUpi-47" value="查核者" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="2486" y="698.4200000000001" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="at9FaAFanRED1QmZHUpi-51" value="主要好處: Defined R&amp;amp;R" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="2365" y="778.46" width="155" height="30" as="geometry" />
+        <mxCell id="at9FaAFanRED1QmZHUpi-51" value="3線防禦主要好處: Defined R&amp;amp;R" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="2329.5" y="774.96" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="at9FaAFanRED1QmZHUpi-52" value="Risk Capacity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-575" y="450.39000000000004" width="100" height="40" as="geometry" />
