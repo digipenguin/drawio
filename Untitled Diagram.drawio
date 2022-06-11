@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-11T08:47:46.186Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Kfkk7fr8GzUYzGsjE77b" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-11T09:08:01.260Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="iFiQjBMJ73qt3ogD0iGF" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1913,7 +1913,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="an5q0qQgftGwTU-aSFFn-32" value="威脅漏洞評估" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-180" width="120" height="60" as="geometry" />
+          <mxGeometry x="281" y="-180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="an5q0qQgftGwTU-aSFFn-36" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="an5q0qQgftGwTU-aSFFn-33" target="an5q0qQgftGwTU-aSFFn-35">
           <mxGeometry relative="1" as="geometry" />
@@ -1923,6 +1923,12 @@
         </mxCell>
         <mxCell id="an5q0qQgftGwTU-aSFFn-35" value="可能性&amp;amp;衝擊" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="637.5" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="an5q0qQgftGwTU-aSFFn-38" value="避免偏見" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;endArrow=classic;endFill=1;" edge="1" parent="1" source="an5q0qQgftGwTU-aSFFn-37" target="an5q0qQgftGwTU-aSFFn-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="an5q0qQgftGwTU-aSFFn-37" value="代表性歷史數據" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="459.25" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
