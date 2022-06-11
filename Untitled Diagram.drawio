@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-11T14:02:50.995Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="bKt3gNc1kiBwZ8py4Mjq" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-11T14:39:34.323Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="oyx_N7wwsIDV9nujU_Yq" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -692,7 +692,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lZBSud-YIM7QX_FMS43R-31" value="Inherent Risk" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="lZBSud-YIM7QX_FMS43R-31" value="Inherent Risk&lt;br&gt;固有風險" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="140" y="1910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-42" value="risk owner" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="lZBSud-YIM7QX_FMS43R-32" target="lZBSud-YIM7QX_FMS43R-39" edge="1">
@@ -700,7 +700,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lZBSud-YIM7QX_FMS43R-32" value="Residual Risk" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="lZBSud-YIM7QX_FMS43R-32" value="Residual Risk&lt;br&gt;剩餘風險" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="140" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="lZBSud-YIM7QX_FMS43R-33" target="lZBSud-YIM7QX_FMS43R-32" edge="1">
