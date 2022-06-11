@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-11T13:49:07.218Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="05bDAiMIp9bOCV8zwPsq" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-11T14:02:50.995Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="bKt3gNc1kiBwZ8py4Mjq" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -635,30 +635,30 @@
         <mxCell id="lZBSud-YIM7QX_FMS43R-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lZBSud-YIM7QX_FMS43R-10" target="lZBSud-YIM7QX_FMS43R-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lZBSud-YIM7QX_FMS43R-10" value="&lt;b&gt;R = L x I&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1459.5" y="801.71" width="60" height="60" as="geometry" />
+        <mxCell id="lZBSud-YIM7QX_FMS43R-10" value="&lt;b&gt;R = &lt;font style=&quot;font-size: 14px;&quot;&gt;概率 x 後果&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1459.5" y="801.71" width="109.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lZBSud-YIM7QX_FMS43R-12" target="lZBSud-YIM7QX_FMS43R-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-12" value="Expected Monetary Value (EMV)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1359.5" y="801.71" width="160" height="60" as="geometry" />
+          <mxGeometry x="-1303.19" y="801.71" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lZBSud-YIM7QX_FMS43R-15" target="lZBSud-YIM7QX_FMS43R-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1079.5" y="888.0300000000002" />
-              <mxPoint x="-1487.5" y="888.0300000000002" />
+              <mxPoint x="-1020" y="888" />
+              <mxPoint x="-1487" y="888" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-15" value="總是以定量分析優先&lt;br&gt;除非沒有分析(可能性)數據" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1159.5" y="801.71" width="160" height="60" as="geometry" />
+          <mxGeometry x="-1103.19" y="801.71" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lZBSud-YIM7QX_FMS43R-17" target="lZBSud-YIM7QX_FMS43R-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lZBSud-YIM7QX_FMS43R-17" value="&lt;b&gt;Threat &amp;amp; Impact 情境&lt;/b&gt;&lt;br&gt;新興威脅APT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="lZBSud-YIM7QX_FMS43R-17" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;威脅 &amp;amp; 影響&lt;/font&gt; &lt;/b&gt;情境&lt;br&gt;新興威脅APT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1377.5" y="916.5300000000002" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lZBSud-YIM7QX_FMS43R-19" target="lZBSud-YIM7QX_FMS43R-24" edge="1">
