@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-11T13:46:34.312Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SB6YRcORzRbm1bEoFOh2" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-11T13:49:07.218Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="05bDAiMIp9bOCV8zwPsq" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1938,6 +1938,9 @@
         </mxCell>
         <mxCell id="an5q0qQgftGwTU-aSFFn-41" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Threat Actor&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="287" y="-160" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="an5q0qQgftGwTU-aSFFn-42" value="進行&lt;b&gt;風險評估&lt;/b&gt;的主要目的在於識別對業務影響最大風險" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="661" y="1800" width="344" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
