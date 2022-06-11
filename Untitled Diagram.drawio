@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-11T09:13:23.117Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="xPnwHPDJG50s4AiBttX5" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-11T09:15:15.943Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="MDSe-viAVNjpQ_zH-kBX" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1935,6 +1935,9 @@
         </mxCell>
         <mxCell id="an5q0qQgftGwTU-aSFFn-39" value="組織結構/政策/標準/技術/架構/控制標準" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="459" y="-110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="an5q0qQgftGwTU-aSFFn-41" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Threat Actor&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="287" y="-160" width="106" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
