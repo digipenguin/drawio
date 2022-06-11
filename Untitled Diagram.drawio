@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-11T01:30:18.441Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="kB3c2IOazTULxsZk_FUG" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-11T06:14:49.237Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="pbx527Cxtoz0dNGJJFMi" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1836,8 +1836,11 @@
         <mxCell id="8Z34IDBe5-Kjp-l9RT7u-8" value="&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#000000&quot;&gt;一致性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#0000FF;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-935" y="372.33" width="70" height="25.49" as="geometry" />
         </mxCell>
+        <mxCell id="an5q0qQgftGwTU-aSFFn-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="an5q0qQgftGwTU-aSFFn-1" target="an5q0qQgftGwTU-aSFFn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="an5q0qQgftGwTU-aSFFn-1" value="高管批准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-775" y="592.89" width="110" height="31.04" as="geometry" />
+          <mxGeometry x="-775" y="581.91" width="110" height="31.04" as="geometry" />
         </mxCell>
         <mxCell id="an5q0qQgftGwTU-aSFFn-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="an5q0qQgftGwTU-aSFFn-3" target="an5q0qQgftGwTU-aSFFn-5">
           <mxGeometry relative="1" as="geometry" />
@@ -1846,13 +1849,16 @@
           <mxGeometry x="-586.58" y="513.96" width="115" height="41.04" as="geometry" />
         </mxCell>
         <mxCell id="an5q0qQgftGwTU-aSFFn-5" value="依框架，負責識別、衡量、控制、報告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-391.58" y="513.96" width="111.58" height="41.04" as="geometry" />
+          <mxGeometry x="-417.58" y="513.96" width="111.58" height="41.04" as="geometry" />
         </mxCell>
         <mxCell id="an5q0qQgftGwTU-aSFFn-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Security Architecture&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-1630" y="26.259999999999998" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="an5q0qQgftGwTU-aSFFn-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Risk Management&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-1035" y="10.059999999999999" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="an5q0qQgftGwTU-aSFFn-9" value="中階主管執行最有效" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-785" y="641.96" width="130" height="31.04" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
