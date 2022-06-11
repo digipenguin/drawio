@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-11T06:17:47.226Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="3KDv9QMCcv_RMjc746xn" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-11T06:23:11.724Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="PUy5SFIddAq1LT5hmxmQ" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1740" y="1880" width="770" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="an5q0qQgftGwTU-aSFFn-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#000000;" edge="1" parent="1" source="at9FaAFanRED1QmZHUpi-50" target="an5q0qQgftGwTU-aSFFn-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="at9FaAFanRED1QmZHUpi-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;arcSize=6;" parent="1" vertex="1">
           <mxGeometry x="2285" y="386.39" width="300" height="422.07" as="geometry" />
@@ -1862,6 +1865,9 @@
         </mxCell>
         <mxCell id="an5q0qQgftGwTU-aSFFn-9" value="中階主管執行最有效" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-785" y="641.96" width="130" height="31.04" as="geometry" />
+        </mxCell>
+        <mxCell id="an5q0qQgftGwTU-aSFFn-16" value="Operation Management&lt;br&gt;根據三線模型管理風險" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="2630" y="567.42" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
