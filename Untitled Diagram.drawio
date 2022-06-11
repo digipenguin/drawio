@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-06-11T06:27:51.876Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ludL-CKKLmUqHjK9aeZu" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-11T06:29:19.340Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="xRfwVk8EDGRMJltQsL2K" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ln6FcJClQyvE4a3wRQ_i-55" value="communicate&lt;br&gt;報告風險" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="88.43000000000005" width="90" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1740" y="1880" width="770" height="440" as="geometry" />
         </mxCell>
@@ -200,17 +203,14 @@
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-51" value="紀錄" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="923" y="448.0200000000001" width="60" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="ln6FcJClQyvE4a3wRQ_i-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-54" target="ln6FcJClQyvE4a3wRQ_i-11" edge="1">
+        <mxCell id="ln6FcJClQyvE4a3wRQ_i-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-55" target="ln6FcJClQyvE4a3wRQ_i-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-54" target="ln6FcJClQyvE4a3wRQ_i-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ln6FcJClQyvE4a3wRQ_i-54" value="&lt;b&gt;Risk practitioner&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ln6FcJClQyvE4a3wRQ_i-54" value="Risk practitioner" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-940" y="80.91" width="90" height="45.04" as="geometry" />
-        </mxCell>
-        <mxCell id="ln6FcJClQyvE4a3wRQ_i-55" value="communicate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-825" y="78.43000000000005" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-56" value="Goals" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-505" y="88.43000000000005" width="80" height="30" as="geometry" />
@@ -1868,6 +1868,12 @@
         </mxCell>
         <mxCell id="an5q0qQgftGwTU-aSFFn-16" value="Operation Management&lt;br&gt;根據三線模型管理風險" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="2630" y="567.42" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="an5q0qQgftGwTU-aSFFn-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="ln6FcJClQyvE4a3wRQ_i-54" target="ln6FcJClQyvE4a3wRQ_i-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-850" y="103.42999999999995" as="sourcePoint" />
+            <mxPoint x="-665" y="103.42999999999995" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
