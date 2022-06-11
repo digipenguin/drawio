@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-11T06:37:39.286Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Ft8GZqvxA0gK3VPLYqjg" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-11T06:37:43.971Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Z9-vZzD16EyuTUFa5WBi" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1746,7 +1746,7 @@
           <mxGeometry x="-1065" y="1633.46" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FXxkkbOfWT-pd1TcEbKr-106" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Thrid Party Risk&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-1639.5" y="1425.98" width="180" height="30" as="geometry" />
+          <mxGeometry x="-1610" y="1435.48" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FXxkkbOfWT-pd1TcEbKr-109" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;所有階段&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="FXxkkbOfWT-pd1TcEbKr-108" target="q8_kLLjh820rXoer5XVD-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
