@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T06:46:15.471Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="cFnrDeMnAxGSLVgyEMcr" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-12T06:50:00.124Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="RpPmqkwXXMmQXIyRzVfW" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2010,6 +2010,9 @@
         </mxCell>
         <mxCell id="-eLZooR8cLsGAlyZ6gkn-28" value="維護原因" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="JK4otoB0jXalJQ3BIUNk-1" target="-eLZooR8cLsGAlyZ6gkn-25">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-eLZooR8cLsGAlyZ6gkn-29" value="風險登記冊&lt;b&gt;不會&lt;/b&gt;傳達給&lt;b&gt;公眾&lt;/b&gt;(內含風險&amp;amp;弱點)&lt;br&gt;&lt;b&gt;不會&lt;/b&gt;傳達給所有&lt;b&gt;員工&lt;/b&gt;，(工作上不一定需知道)&lt;br&gt;只會傳達給利益相關者" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="780" y="2733.69" width="290" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
