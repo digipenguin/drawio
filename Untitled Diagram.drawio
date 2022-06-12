@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T12:56:41.825Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="aKn2vQM2jV2GGE28y9fi" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-12T13:00:30.253Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="W76YTv32h55jyze25m4L" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1703,7 +1703,7 @@
         <mxCell id="FXxkkbOfWT-pd1TcEbKr-88" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;obligated &lt;font style=&quot;font-size: 12px;&quot; color=&quot;#ff0000&quot;&gt;requirement&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-1177.02" y="1851.92" width="107.65" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="FXxkkbOfWT-pd1TcEbKr-89" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;NDA&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="FXxkkbOfWT-pd1TcEbKr-89" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;NDA&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-1376.18" y="1852.92" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FXxkkbOfWT-pd1TcEbKr-90" value="&lt;b style=&quot;font-size: 14px&quot;&gt;SLA&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;penalties&lt;br&gt;right to terminate&lt;br&gt;R&amp;amp;R&lt;br&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
