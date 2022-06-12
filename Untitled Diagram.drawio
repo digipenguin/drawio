@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T04:28:36.880Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="lvXpKVhR9BR89BVb_uVX" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-12T04:29:53.558Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="gh1KaVkB4kb8CqBMh8FN" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1997,10 +1997,10 @@
           <mxGeometry x="997.5" y="-337" width="102" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-eLZooR8cLsGAlyZ6gkn-20" value="評估端到端有效性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="997.5" y="-213" width="102" height="60" as="geometry" />
+          <mxGeometry x="988.75" y="-213" width="119.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-eLZooR8cLsGAlyZ6gkn-22" value="確保明確定義風險因素和風險概況" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1219.5" y="-213" width="102" height="60" as="geometry" />
+        <mxCell id="-eLZooR8cLsGAlyZ6gkn-22" value="確保明確定義&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;風險因素&lt;/b&gt;&lt;/font&gt;和&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;風險概況&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1205.5" y="-213" width="130.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-eLZooR8cLsGAlyZ6gkn-24" value="当风险评估过程正确执行时，风险概况和风险因素得到正确定义，独立评估可能会导致进一步的改进" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="898" y="-140" width="560" height="30" as="geometry" />
