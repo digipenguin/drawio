@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T09:25:41.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="I6HSox-_Y2WAWI-JhSC4" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T09:37:40.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="7TcOoW3ob5vGTMA-wR7A" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2143,6 +2143,15 @@
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-38" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;open_sansregular, Arial, Helvetica, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;第一步&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;open_sansregular, Arial, Helvetica, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;能力評估&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;open_sansregular, Arial, Helvetica, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;a capacity assessment&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="2470" y="-291" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-40" value="第一步&lt;br&gt;識別高風險區域" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2489" y="-190" width="139.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-42" target="KU6Lz0kbw_T2_Cv3vvoF-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-42" value="持續性風險監控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2299.5" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
