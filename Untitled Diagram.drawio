@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T06:13:18.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="R9s78S8ORX-Y4A6q61uz" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T07:41:22.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="7Yf9M8N-jiUJzZfhlfFw" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -771,6 +771,9 @@
         <mxCell id="lZBSud-YIM7QX_FMS43R-56" value="&lt;b&gt;Gap Analysis&lt;/b&gt;&lt;br&gt;(CMM)&lt;br&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;差距分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-525" y="1612" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-34" value="CBA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="lZBSud-YIM7QX_FMS43R-58" target="KU6Lz0kbw_T2_Cv3vvoF-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-58" value="control deficiencies&lt;br&gt;&lt;span style=&quot;font-family: open_sansregular, Arial, Helvetica, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;控制缺陷&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-320" y="1612" width="100" height="60" as="geometry" />
         </mxCell>
@@ -1526,8 +1529,8 @@
         <mxCell id="FXxkkbOfWT-pd1TcEbKr-17" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="-1330" y="2537.51" width="63" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="FXxkkbOfWT-pd1TcEbKr-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;SSL/TLS Handshake Process&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="-1320" y="2470" width="220" height="30" as="geometry" />
+        <mxCell id="FXxkkbOfWT-pd1TcEbKr-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;SSL/TLS Handshake Process&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="-1354" y="2450" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FXxkkbOfWT-pd1TcEbKr-20" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;我想跟你建立一個加密連線，這邊是我可以使用的cipher suites列表&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-1250" y="2531.65" width="450" height="30" as="geometry" />
@@ -2122,6 +2125,9 @@
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-32" value="KCI有助高層識別對風險概況的衝擊" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="223.5" y="2950" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-33" value="補償性控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="1612" width="84" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
