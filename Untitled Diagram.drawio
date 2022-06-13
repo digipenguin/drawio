@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T09:37:40.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="7TcOoW3ob5vGTMA-wR7A" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T12:52:16.539Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="A0TpKxu3P1Z_IqMqlZBo" version="20.0.0" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
-    <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -771,7 +771,7 @@
         <mxCell id="lZBSud-YIM7QX_FMS43R-56" value="&lt;b&gt;Gap Analysis&lt;/b&gt;&lt;br&gt;(CMM)&lt;br&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;差距分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-525" y="1612" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-34" value="CBA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="lZBSud-YIM7QX_FMS43R-58" target="KU6Lz0kbw_T2_Cv3vvoF-33">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-34" value="CBA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="lZBSud-YIM7QX_FMS43R-58" target="KU6Lz0kbw_T2_Cv3vvoF-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-58" value="control deficiencies&lt;br&gt;&lt;span style=&quot;font-family: open_sansregular, Arial, Helvetica, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;控制缺陷&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
@@ -810,7 +810,7 @@
         <mxCell id="9qnvDsTE580gVhcHcqW_-17" value="Senior management" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="-136" y="1369.48" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-24" value="initiate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="9qnvDsTE580gVhcHcqW_-19" target="KU6Lz0kbw_T2_Cv3vvoF-23">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-24" value="initiate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="9qnvDsTE580gVhcHcqW_-19" target="KU6Lz0kbw_T2_Cv3vvoF-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9qnvDsTE580gVhcHcqW_-19" value="Risk Reporting" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
@@ -1164,8 +1164,8 @@
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-5" value="design" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="ppujjk4q9aCOOOV1Y9fn-4" target="ppujjk4q9aCOOOV1Y9fn-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ppujjk4q9aCOOOV1Y9fn-4" value="SMART&lt;br&gt;Correct &amp;amp; accurate&lt;br&gt;&lt;b&gt;Linked to specific risk&lt;/b&gt;&lt;br&gt;predictable event&lt;br&gt;operational process flow" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="835" y="2120" width="138" height="80" as="geometry" />
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-4" value="SMART&lt;br&gt;Correct &amp;amp; accurate&lt;br&gt;&lt;b&gt;Linked to specific risk&lt;/b&gt;&lt;br&gt;predictable event&lt;br&gt;&lt;b&gt;operational process flow&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="835" y="2120" width="155" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-7" value="&lt;font color=&quot;#000000&quot;&gt;Risk owner&lt;br&gt;Current State&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="675" y="2266" width="90" height="50" as="geometry" />
@@ -1174,7 +1174,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-9" value="&lt;font color=&quot;#000000&quot;&gt;Independent team&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000FF;" parent="1" vertex="1">
-          <mxGeometry x="859" y="2219" width="90" height="40" as="geometry" />
+          <mxGeometry x="867.5" y="2245" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-15" value="Lag indicators&lt;br&gt;KRI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1884.5" y="1718.92" width="100" height="60" as="geometry" />
@@ -1341,7 +1341,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JK4otoB0jXalJQ3BIUNk-24" value="Risk Response&amp;nbsp; stage" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="1033" y="2130" width="120" height="60" as="geometry" />
+          <mxGeometry x="1052" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JK4otoB0jXalJQ3BIUNk-53" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1370" y="100.00000000000006" width="290" height="210.15000000000003" as="geometry" />
@@ -2050,69 +2050,69 @@
         <mxCell id="-eLZooR8cLsGAlyZ6gkn-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;合約&lt;b&gt;最重要&lt;/b&gt;是合規性&lt;br&gt;&lt;b&gt;最有效&lt;/b&gt;是定期審計&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1593.5" y="1835.94" width="130" height="66.04" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.016;entryY=0.317;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-1" target="JK4otoB0jXalJQ3BIUNk-1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.016;entryY=0.317;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-1" target="JK4otoB0jXalJQ3BIUNk-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-3" value="未知風險" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KU6Lz0kbw_T2_Cv3vvoF-2">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-3" value="未知風險" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KU6Lz0kbw_T2_Cv3vvoF-2" vertex="1" connectable="0">
           <mxGeometry x="-0.7706" y="-1" relative="1" as="geometry">
             <mxPoint x="22" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-1" value="風險評估&lt;br&gt;Risk Assessment" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-1" value="風險評估&lt;br&gt;Risk Assessment" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="71" y="2582.4900000000002" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-13" value="提案" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-5" target="KU6Lz0kbw_T2_Cv3vvoF-11">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-13" value="提案" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-5" target="KU6Lz0kbw_T2_Cv3vvoF-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-5" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;風險響應&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;risk response&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-5" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;風險響應&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;risk response&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1004" y="-301" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-9" value="確定" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-6" target="KU6Lz0kbw_T2_Cv3vvoF-8">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-9" value="確定" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-6" target="KU6Lz0kbw_T2_Cv3vvoF-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-6" value="成本效益分析&lt;br&gt;CBA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-6" value="成本效益分析&lt;br&gt;CBA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1299.75" y="-301" width="88.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-20" value="優先性基於" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-8" target="KU6Lz0kbw_T2_Cv3vvoF-19">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-20" value="優先性基於" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-8" target="KU6Lz0kbw_T2_Cv3vvoF-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-8" target="KU6Lz0kbw_T2_Cv3vvoF-21">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-8" target="KU6Lz0kbw_T2_Cv3vvoF-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-8" target="KU6Lz0kbw_T2_Cv3vvoF-25">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-8" target="KU6Lz0kbw_T2_Cv3vvoF-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-8" value="風險處理計畫" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-8" value="風險處理計畫" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1489.25" y="-301" width="102" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;收益 &amp;gt; 成本&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;收益 &amp;gt; 成本&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1402.75" y="-261" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-11" target="KU6Lz0kbw_T2_Cv3vvoF-6">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-11" target="KU6Lz0kbw_T2_Cv3vvoF-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-11" value="商業案例" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-11" value="商業案例" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1186" y="-301" width="62" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-19" value="可能性 &amp;amp; 影響" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-19" value="可能性 &amp;amp; 影響" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1494.25" y="-420" width="92" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-21" value="現有控制有效性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-21" value="現有控制有效性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1489.25" y="-190" width="102" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-23" value="Risk Response" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-23" value="Risk Response" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1427.5" y="1729.3700000000001" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-28" value="initiate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-25" target="KU6Lz0kbw_T2_Cv3vvoF-27">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-28" value="initiate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-25" target="KU6Lz0kbw_T2_Cv3vvoF-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-25" value="風險報告&lt;br&gt;Risk Reporting" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-25" value="風險報告&lt;br&gt;Risk Reporting" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1630" y="-301" width="102" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-27" value="Risk Response" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-27" value="Risk Response" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1812" y="-301" width="102" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-29" target="ppujjk4q9aCOOOV1Y9fn-53">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-29" target="ppujjk4q9aCOOOV1Y9fn-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="2912" />
@@ -2120,37 +2120,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-29" value="KCI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-29" value="KCI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="254.25" y="2888.19" width="47" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-32" value="KCI有助高層識別對風險概況的衝擊" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-32" value="KCI有助高層識別對風險概況的衝擊" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="223.5" y="2950" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-33" value="補償性控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-33" value="補償性控制" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-140" y="1612" width="84" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-35" target="KU6Lz0kbw_T2_Cv3vvoF-38">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-35" target="KU6Lz0kbw_T2_Cv3vvoF-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-35" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;風險監控&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;risk monitoring&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-35" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;風險監控&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;risk monitoring&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2299" y="-291" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-36" target="KU6Lz0kbw_T2_Cv3vvoF-35">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-36" target="KU6Lz0kbw_T2_Cv3vvoF-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-36" value="&lt;span style=&quot;font-family: open_sansregular, Arial, Helvetica, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;很大的影响和频率&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-36" value="&lt;span style=&quot;font-family: open_sansregular, Arial, Helvetica, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;很大的影响和频率&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="2299" y="-410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-38" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;open_sansregular, Arial, Helvetica, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;第一步&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;open_sansregular, Arial, Helvetica, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;能力評估&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;open_sansregular, Arial, Helvetica, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;a capacity assessment&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;arcSize=12;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-38" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;open_sansregular, Arial, Helvetica, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;第一步&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;open_sansregular, Arial, Helvetica, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;能力評估&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;open_sansregular, Arial, Helvetica, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;a capacity assessment&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;arcSize=12;" parent="1" vertex="1">
           <mxGeometry x="2470" y="-291" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-40" value="第一步&lt;br&gt;識別高風險區域" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-40" value="第一步&lt;br&gt;識別高風險區域" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2489" y="-190" width="139.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-42" target="KU6Lz0kbw_T2_Cv3vvoF-40">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-42" target="KU6Lz0kbw_T2_Cv3vvoF-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-42" value="持續性風險監控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-42" value="持續性風險監控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="2299.5" y="-190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
