@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T03:02:31.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="TPUlXRrxKJ-159uazo3u" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T03:14:40.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="J7DEc7qr_3dkhZUEZq3F" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -807,7 +807,10 @@
         <mxCell id="9qnvDsTE580gVhcHcqW_-17" value="Senior management" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="-136" y="1369.48" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9qnvDsTE580gVhcHcqW_-19" value="Resource" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-24" value="initiate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="9qnvDsTE580gVhcHcqW_-19" target="KU6Lz0kbw_T2_Cv3vvoF-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9qnvDsTE580gVhcHcqW_-19" value="Risk Reporting" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1266.5" y="1729.3700000000001" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5vowtt_naD49cerCg_K4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9qnvDsTE580gVhcHcqW_-21" target="5vowtt_naD49cerCg_K4-1" edge="1">
@@ -2072,6 +2075,9 @@
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-8" target="KU6Lz0kbw_T2_Cv3vvoF-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-8" target="KU6Lz0kbw_T2_Cv3vvoF-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-8" value="風險處理計畫" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1489.25" y="-301" width="102" height="60" as="geometry" />
         </mxCell>
@@ -2089,6 +2095,18 @@
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-21" value="現有控制有效性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1489.25" y="-190" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-23" value="Risk Response" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1427.5" y="1729.3700000000001" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-28" value="initiate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-25" target="KU6Lz0kbw_T2_Cv3vvoF-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-25" value="風險報告&lt;br&gt;Risk Reporting" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="-301" width="102" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-27" value="Risk Response" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1812" y="-301" width="102" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
