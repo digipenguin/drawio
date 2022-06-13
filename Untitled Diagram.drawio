@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T12:59:44.075Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Vfk_mqdpAMfMWtLK2gkY" version="20.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T13:11:25.478Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="LmVi5aCc7AB4xx-SD5F4" version="20.0.0" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1191,11 +1191,11 @@
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-17" value="Now" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2048.5" y="2420" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ppujjk4q9aCOOOV1Y9fn-20" value="已經發生的落後指標&lt;br&gt;蒐集資料報告&lt;br&gt;經驗學習" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1996.5" y="1778.92" width="135" height="96" as="geometry" />
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-20" value="已經發生的落後指標&lt;br&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;蒐集資料報告&lt;br&gt;經驗學習&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1955" y="2470" width="135" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="ppujjk4q9aCOOOV1Y9fn-21" value="還沒發生的領先指標&lt;br&gt;風險預測&lt;br&gt;監控current state&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="2151.5" y="1778.92" width="135" height="96" as="geometry" />
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-21" value="還沒發生的領先指標&lt;br&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;風險預測&lt;br&gt;監控current state&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="2110" y="2470" width="135" height="96" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-30" value="&lt;b&gt;KPI&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1914.5" y="1992" width="70" height="44" as="geometry" />
