@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T01:30:17.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="t8R7GblbIkHDBCdQZlhu" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T01:31:39.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="LDckAX4d5cc9njqEyGD1" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1285,7 +1285,7 @@
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-58" value="週期性review" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/bold-purple-free-samples/32/Arrows_Refresh_Replace_Round_Circle-128.png" parent="1" vertex="1">
           <mxGeometry x="258.99999999999994" y="2857.51" width="40.68" height="40.68" as="geometry" />
         </mxCell>
-        <mxCell id="ppujjk4q9aCOOOV1Y9fn-62" value="造成變化" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;startArrow=none;startFill=0;" parent="1" source="ppujjk4q9aCOOOV1Y9fn-61" target="ppujjk4q9aCOOOV1Y9fn-53" edge="1">
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-62" value="連鎖效應" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;startArrow=none;startFill=0;" parent="1" source="ppujjk4q9aCOOOV1Y9fn-61" target="ppujjk4q9aCOOOV1Y9fn-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-61" value="建置新技術&lt;br&gt;企業流程變更&lt;br&gt;法規需求變更&lt;br&gt;客戶需求變更&lt;br&gt;競爭者政策變更&lt;br&gt;&lt;b&gt;控制有效性&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
