@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T00:52:27.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="yDFWVmlvJ_xPZqXY-xBp" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T00:53:29.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="E80mndiWS-_XFPZN2OfN" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1291,7 +1291,7 @@
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-61" value="建置新技術&lt;br&gt;企業流程變更&lt;br&gt;法規需求變更&lt;br&gt;客戶需求變更&lt;br&gt;競爭者政策變更&lt;br&gt;&lt;b&gt;控制有效性&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="573" y="2880.19" width="91.5" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="ppujjk4q9aCOOOV1Y9fn-63" value="&lt;b&gt;&amp;nbsp; additional response&lt;/b&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp; decision&lt;/b&gt; making&lt;br&gt;&amp;nbsp; goals &lt;b&gt;alignment&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;align=left;" parent="1" vertex="1">
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-63" value="&lt;b&gt;&amp;nbsp; Additional response&lt;/b&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp; Decision&lt;/b&gt; making&lt;br&gt;&amp;nbsp; Goals &lt;b&gt;alignment&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;align=left;" parent="1" vertex="1">
           <mxGeometry x="778.8199999999999" y="2736.65" width="143.5" height="68.72" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-67" value="&lt;b&gt;向高管報告的重要部份&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
@@ -2173,7 +2173,7 @@
         <mxCell id="pOB_KC2y14MpkEapG82R-7" value="紀錄操作流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="238" y="2612.49" width="81" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pOB_KC2y14MpkEapG82R-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;a&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;capability assessment&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="pOB_KC2y14MpkEapG82R-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;A&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;capability assessment&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="365" y="2843" width="87" height="45" as="geometry" />
         </mxCell>
       </root>
