@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T00:53:29.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="E80mndiWS-_XFPZN2OfN" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T01:05:50.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="3d4NkdbIF96u4y--Mm6s" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1279,7 +1279,7 @@
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-64" value="determine" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;startArrow=none;startFill=0;" parent="1" source="ppujjk4q9aCOOOV1Y9fn-53" target="ppujjk4q9aCOOOV1Y9fn-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ppujjk4q9aCOOOV1Y9fn-53" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Risk Profile&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-53" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Risk Profile&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="572.5" y="2739.19" width="92" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-58" value="週期性review" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/bold-purple-free-samples/32/Arrows_Refresh_Replace_Round_Circle-128.png" parent="1" vertex="1">
@@ -2037,7 +2037,7 @@
         <mxCell id="-eLZooR8cLsGAlyZ6gkn-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Risk Register&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="68.5" y="2440" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-eLZooR8cLsGAlyZ6gkn-31" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;已知風險現狀&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="-eLZooR8cLsGAlyZ6gkn-31" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;已知風險&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="233.75" y="2799.19" width="91.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-eLZooR8cLsGAlyZ6gkn-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="-eLZooR8cLsGAlyZ6gkn-32" target="-eLZooR8cLsGAlyZ6gkn-33" edge="1">
@@ -2175,6 +2175,39 @@
         </mxCell>
         <mxCell id="pOB_KC2y14MpkEapG82R-9" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;A&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;capability assessment&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="365" y="2843" width="87" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pOB_KC2y14MpkEapG82R-21" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;" edge="1" parent="1" source="pOB_KC2y14MpkEapG82R-11" target="pOB_KC2y14MpkEapG82R-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOB_KC2y14MpkEapG82R-11" value="風險現狀" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="979" y="3110" width="67" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pOB_KC2y14MpkEapG82R-13" value="額外響應" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1093" y="3100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pOB_KC2y14MpkEapG82R-23" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;" edge="1" parent="1" source="pOB_KC2y14MpkEapG82R-14" target="pOB_KC2y14MpkEapG82R-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOB_KC2y14MpkEapG82R-14" value="風險概況" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="731" y="3110" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pOB_KC2y14MpkEapG82R-17" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;" edge="1" parent="1" source="pOB_KC2y14MpkEapG82R-16" target="pOB_KC2y14MpkEapG82R-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOB_KC2y14MpkEapG82R-16" value="KRI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="600" y="3080" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pOB_KC2y14MpkEapG82R-19" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;" edge="1" parent="1" source="pOB_KC2y14MpkEapG82R-18" target="pOB_KC2y14MpkEapG82R-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOB_KC2y14MpkEapG82R-18" value="KCI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="601.5" y="3140" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pOB_KC2y14MpkEapG82R-24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startArrow=none;startFill=0;" edge="1" parent="1" source="pOB_KC2y14MpkEapG82R-22" target="pOB_KC2y14MpkEapG82R-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOB_KC2y14MpkEapG82R-22" value="風險登記冊" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="860" y="3110" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
