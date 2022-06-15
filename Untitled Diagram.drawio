@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T02:30:03.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="JTTktZ55dg9BPc_pSTMu" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T02:31:11.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="YT9hbuN2oC1T_F5ZUYGc" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1424,7 +1424,7 @@
         <mxCell id="q8_kLLjh820rXoer5XVD-4" value="risk-based" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="q8_kLLjh820rXoer5XVD-3" target="q8_kLLjh820rXoer5XVD-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q8_kLLjh820rXoer5XVD-3" value="Scope Creep (Feasibility)&lt;br&gt;缺乏計劃導致超支資源不足&lt;br&gt;缺乏結構化專案管理&lt;br&gt;建置前未測試&lt;br&gt;合規或監管問題" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+        <mxCell id="q8_kLLjh820rXoer5XVD-3" value="Scope Creep&lt;br&gt;缺乏計劃導致超支資源不足&lt;br&gt;缺乏結構化專案管理&lt;br&gt;建置前未測試&lt;br&gt;合規或監管問題" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-822.5799999999999" y="1943" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q8_kLLjh820rXoer5XVD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="q8_kLLjh820rXoer5XVD-5" target="q8_kLLjh820rXoer5XVD-3" edge="1">
@@ -1857,8 +1857,8 @@
         <mxCell id="FXxkkbOfWT-pd1TcEbKr-139" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Project &amp;amp; SDLC&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-955" y="1768" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FXxkkbOfWT-pd1TcEbKr-141" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Design: &lt;/b&gt;&lt;br&gt;-internal control&lt;br&gt;-skill resource&lt;br&gt;-change management&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;strokeColor=default;fillColor=default;gradientColor=none;gradientDirection=north;arcSize=6;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="1940.5" width="160" height="85" as="geometry" />
+        <mxCell id="FXxkkbOfWT-pd1TcEbKr-141" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Feasibility:&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;scope creep&lt;/font&gt;&lt;br&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Design: &lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;-internal control&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;-skill resource&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;-change management&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;strokeColor=default;fillColor=default;gradientColor=none;gradientDirection=north;arcSize=6;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="1910" width="160" height="145.5" as="geometry" />
         </mxCell>
         <mxCell id="FXxkkbOfWT-pd1TcEbKr-142" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;change management 避免scope creep(over budget)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-380" y="2059" width="342.5" height="30" as="geometry" />
