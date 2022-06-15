@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T05:53:38.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="UbZYxu9QDzj72cELJF8E" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T13:02:52.727Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="E-uFKQ5wg9NKSwaqmxss" version="20.0.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
-    <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2079,13 +2079,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-5" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;風險響應&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;risk response&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1004" y="-301" width="120" height="60" as="geometry" />
+          <mxGeometry x="1707" y="-258" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-9" value="確定" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-6" target="KU6Lz0kbw_T2_Cv3vvoF-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-6" value="成本效益分析&lt;br&gt;CBA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1299.75" y="-301" width="88.25" height="60" as="geometry" />
+          <mxGeometry x="2002.75" y="-258" width="88.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-20" value="優先性基於" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-8" target="KU6Lz0kbw_T2_Cv3vvoF-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2097,22 +2097,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-8" value="風險處理計畫" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1489.25" y="-301" width="102" height="60" as="geometry" />
+          <mxGeometry x="2192.25" y="-258" width="102" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;收益 &amp;gt; 成本&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1402.75" y="-261" width="80" height="30" as="geometry" />
+          <mxGeometry x="2105.75" y="-218" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-11" target="KU6Lz0kbw_T2_Cv3vvoF-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-11" value="商業案例" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1186" y="-301" width="62" height="60" as="geometry" />
+          <mxGeometry x="1889" y="-258" width="62" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-19" value="可能性 &amp;amp; 影響" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1494.25" y="-420" width="92" height="60" as="geometry" />
+          <mxGeometry x="2197.25" y="-377" width="92" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-21" value="現有控制有效性" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1489.25" y="-190" width="102" height="60" as="geometry" />
+          <mxGeometry x="2192.25" y="-147" width="102" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-23" value="Risk Response" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1427.5" y="1729.3700000000001" width="80" height="60" as="geometry" />
@@ -2121,10 +2121,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-25" value="風險報告&lt;br&gt;Risk Reporting" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1630" y="-301" width="102" height="60" as="geometry" />
+          <mxGeometry x="2333" y="-258" width="102" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-27" value="Risk Response" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1812" y="-301" width="102" height="60" as="geometry" />
+          <mxGeometry x="2515" y="-258" width="102" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-29" target="ppujjk4q9aCOOOV1Y9fn-53" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2147,25 +2147,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-35" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;風險監控&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;risk monitoring&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="2299" y="-291" width="120" height="60" as="geometry" />
+          <mxGeometry x="2890" y="-241" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-36" target="KU6Lz0kbw_T2_Cv3vvoF-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-36" value="&lt;span style=&quot;font-family: open_sansregular, Arial, Helvetica, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;很大的影响和频率&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="2299" y="-410" width="120" height="60" as="geometry" />
+          <mxGeometry x="2890" y="-360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-38" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;open_sansregular, Arial, Helvetica, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;第一步&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;open_sansregular, Arial, Helvetica, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;能力評估&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;open_sansregular, Arial, Helvetica, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;a capacity assessment&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=center;arcSize=12;" parent="1" vertex="1">
-          <mxGeometry x="2470" y="-291" width="160" height="60" as="geometry" />
+          <mxGeometry x="3061" y="-241" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-40" value="第一步&lt;br&gt;識別高風險區域" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="2489" y="-190" width="139.5" height="60" as="geometry" />
+          <mxGeometry x="3080" y="-140" width="139.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-42" target="KU6Lz0kbw_T2_Cv3vvoF-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-42" value="持續性風險監控" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="2299.5" y="-190" width="120" height="60" as="geometry" />
+          <mxGeometry x="2890.5" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pOB_KC2y14MpkEapG82R-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="pOB_KC2y14MpkEapG82R-1" target="pOB_KC2y14MpkEapG82R-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2280,7 +2280,7 @@
         <mxCell id="h__-9r-erk3D4aENYNDO-10" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;評估替代方案&lt;br&gt;&amp;nbsp;從第三方開發或獲取系統&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-1034.5" y="2840.19" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Me-Rp22famZqAHNJmch6-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h__-9r-erk3D4aENYNDO-11" target="h__-9r-erk3D4aENYNDO-17">
+        <mxCell id="Me-Rp22famZqAHNJmch6-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="h__-9r-erk3D4aENYNDO-11" target="h__-9r-erk3D4aENYNDO-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h__-9r-erk3D4aENYNDO-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;Features configured&lt;br&gt;&lt;b&gt;&amp;nbsp;Testing and Verify&lt;/b&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp;Migration&lt;/b&gt; activities&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
@@ -2304,19 +2304,40 @@
         <mxCell id="h__-9r-erk3D4aENYNDO-21" value="&lt;span style=&quot;font-family: open_sansregular, Arial, Helvetica, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Business representatives&lt;br&gt;各單位充分參與&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-1580" y="2950" width="120" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="Me-Rp22famZqAHNJmch6-3" value="review miigration process" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Me-Rp22famZqAHNJmch6-2" target="Me-Rp22famZqAHNJmch6-5">
+        <mxCell id="Me-Rp22famZqAHNJmch6-3" value="review miigration process" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Me-Rp22famZqAHNJmch6-2" target="Me-Rp22famZqAHNJmch6-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-430" y="2810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Me-Rp22famZqAHNJmch6-2" value="風險從業者" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Me-Rp22famZqAHNJmch6-2" value="風險從業者" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-180" y="2823.59" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Me-Rp22famZqAHNJmch6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="Me-Rp22famZqAHNJmch6-5" target="h__-9r-erk3D4aENYNDO-17">
+        <mxCell id="Me-Rp22famZqAHNJmch6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="1" source="Me-Rp22famZqAHNJmch6-5" target="h__-9r-erk3D4aENYNDO-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Me-Rp22famZqAHNJmch6-5" value="&lt;div&gt;正確性&lt;/div&gt;&lt;div&gt;完整性&lt;/div&gt;&lt;div&gt;轉換錯誤&lt;/div&gt;&lt;div&gt;備份就定位&lt;/div&gt;&lt;div&gt;欄位一致性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=9;" vertex="1" parent="1">
+        <mxCell id="Me-Rp22famZqAHNJmch6-5" value="&lt;div&gt;正確性&lt;/div&gt;&lt;div&gt;完整性&lt;/div&gt;&lt;div&gt;轉換錯誤&lt;/div&gt;&lt;div&gt;備份就定位&lt;/div&gt;&lt;div&gt;欄位一致性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="-480" y="2810" width="90" height="88.19" as="geometry" />
+        </mxCell>
+        <mxCell id="nCQUSglWHMuktzrj9GrX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="nCQUSglWHMuktzrj9GrX-1" target="nCQUSglWHMuktzrj9GrX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nCQUSglWHMuktzrj9GrX-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;教育訓練&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2055.5" y="-603" width="94" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nCQUSglWHMuktzrj9GrX-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="nCQUSglWHMuktzrj9GrX-2" target="nCQUSglWHMuktzrj9GrX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nCQUSglWHMuktzrj9GrX-2" value="Data&lt;br&gt;BYOD" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1712" y="-603" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nCQUSglWHMuktzrj9GrX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="nCQUSglWHMuktzrj9GrX-3" target="nCQUSglWHMuktzrj9GrX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nCQUSglWHMuktzrj9GrX-3" value="與所有人有關" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1879" y="-603" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nCQUSglWHMuktzrj9GrX-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;通報數量增加&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;安全違規數量增加&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2215" y="-603" width="136" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
