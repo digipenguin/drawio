@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T13:02:52.727Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="E-uFKQ5wg9NKSwaqmxss" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T13:11:04.327Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="5spuM3XdfqVuGie-hkqN" version="20.0.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2338,6 +2338,12 @@
         </mxCell>
         <mxCell id="nCQUSglWHMuktzrj9GrX-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;通報數量增加&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;安全違規數量增加&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2215" y="-603" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nCQUSglWHMuktzrj9GrX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="nCQUSglWHMuktzrj9GrX-8" target="nCQUSglWHMuktzrj9GrX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nCQUSglWHMuktzrj9GrX-8" value="Policy要有效" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2042.5" y="-740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
