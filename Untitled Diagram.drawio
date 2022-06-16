@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T08:23:17.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="y0ZHj6EzEXtbmBz4s-rk" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T09:40:21.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36" etag="lf6stjQv8KNQe3loDivd" version="19.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -661,8 +661,8 @@
         <mxCell id="lZBSud-YIM7QX_FMS43R-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lZBSud-YIM7QX_FMS43R-17" target="lZBSud-YIM7QX_FMS43R-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lZBSud-YIM7QX_FMS43R-17" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;威脅 &amp;amp; 影響&lt;/font&gt; &lt;/b&gt;情境&lt;br&gt;新興威脅APT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1212.5" y="918.7200000000003" width="140" height="60" as="geometry" />
+        <mxCell id="lZBSud-YIM7QX_FMS43R-17" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Threat &amp;amp; Impact&lt;/font&gt;&amp;nbsp;&lt;/b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;情境&lt;/font&gt;&lt;br&gt;新興威脅APT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1220" y="918.72" width="147.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lZBSud-YIM7QX_FMS43R-19" target="lZBSud-YIM7QX_FMS43R-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
