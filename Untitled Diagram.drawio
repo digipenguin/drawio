@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T03:20:58.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Ukkl4AaQ_7L5edYmo5rW" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T03:24:51.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="YN5aHi4r3YlalxKx_84B" version="20.0.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2410,7 +2410,7 @@
           <mxGeometry x="1832" y="1238.71" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-15" value="極限值，組織可以撐多久" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2630.5" y="1437.71" width="140.5" height="20" as="geometry" />
+          <mxGeometry x="2630.5" y="1437.71" width="179.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-16" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;RTO &amp;lt;=&amp;nbsp; AIW&amp;nbsp; &amp;lt;= MTO&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2351" y="1482.19" width="181.5" height="20" as="geometry" />
@@ -2454,8 +2454,8 @@
         <mxCell id="OVehZIJ8p7fkWujukLtn-30" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2011.3500000000001" y="1371.6100000000001" width="54.6" height="70.19999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="OVehZIJ8p7fkWujukLtn-31" value="&lt;span style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font face=&quot;Lato, PingFang TC, Helvetica Neue, Helvetica, 微軟正黑體, 新細明體, Arial, sans-serif&quot; color=&quot;#303233&quot;&gt;AIW: Acceptable Interruption Window&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;Lato, PingFang TC, Helvetica Neue, Helvetica, 微軟正黑體, 新細明體, Arial, sans-serif&quot; color=&quot;#303233&quot;&gt;SDO: Service Delivery Objective&lt;br&gt;&lt;/font&gt;MTO:&amp;nbsp;Maximum Tolerable Outage&amp;nbsp;&lt;span style=&quot;box-sizing: border-box; font-weight: 700; color: rgb(48, 50, 51);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;企業可以支持備用模式下的處理的最長時間&lt;br&gt;&lt;/font&gt;&lt;/span&gt;WRT:&amp;nbsp;Work Recovery Time&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2559.5" y="1514" width="500" height="95" as="geometry" />
+        <mxCell id="OVehZIJ8p7fkWujukLtn-31" value="&lt;span style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font face=&quot;Lato, PingFang TC, Helvetica Neue, Helvetica, 微軟正黑體, 新細明體, Arial, sans-serif&quot; color=&quot;#303233&quot;&gt;MTD: Maximum Tolerable Downtime&lt;br&gt;AIW: Acceptable Interruption Window&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;Lato, PingFang TC, Helvetica Neue, Helvetica, 微軟正黑體, 新細明體, Arial, sans-serif&quot; color=&quot;#303233&quot;&gt;SDO: Service Delivery Objective&lt;br&gt;&lt;/font&gt;MTO:&amp;nbsp;Maximum Tolerable Outage&amp;nbsp;&lt;span style=&quot;box-sizing: border-box; font-weight: 700; color: rgb(48, 50, 51);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;企業可以支持備用模式下的處理的最長時間&lt;br&gt;&lt;/font&gt;&lt;/span&gt;WRT:&amp;nbsp;Work Recovery Time&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2559.5" y="1528.81" width="500" height="95" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-32" value="DR Site" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1996.07" y="1441.8099999999997" width="86" height="30" as="geometry" />
