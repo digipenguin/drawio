@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T03:43:12.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="TCFFv0zvVYBYM0e0FcNY" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T05:20:09.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="uOpHujU6HVroybrwJP8z" version="20.0.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2268,8 +2268,8 @@
         <mxCell id="7X9MVV7Vie8pJOgtJpme-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Disposal phase&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1218.03" y="3305" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h__-9r-erk3D4aENYNDO-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;Purpose, &lt;br&gt;&lt;b&gt;&amp;nbsp;Scope&amp;nbsp;&lt;br&gt;&lt;/b&gt;&amp;nbsp;Risk (security) requirements 決定&lt;br&gt;&amp;nbsp;定義出 &lt;b&gt;Change management&lt;/b&gt; (專案的變更控制)&lt;br&gt;&amp;nbsp;(預防&lt;b&gt;scope creep&lt;/b&gt;)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;arcSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-1034.5" y="2539" width="324.5" height="102" as="geometry" />
+        <mxCell id="h__-9r-erk3D4aENYNDO-6" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;Purpose&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;Scope&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;Risk (security) requirements 決定&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;定義出 &lt;b&gt;Change management&lt;/b&gt; (專案的變更控制)&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;(預防&lt;b&gt;scope creep&lt;/b&gt;)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;arcSize=5;" parent="1" vertex="1">
+          <mxGeometry x="-1034.5" y="2532.19" width="344.5" height="121" as="geometry" />
         </mxCell>
         <mxCell id="h__-9r-erk3D4aENYNDO-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;Resource 需求&lt;br&gt;&amp;nbsp;&lt;b&gt;Internal controls&lt;/b&gt; are finalized&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-1034.5" y="2702" width="230" height="60" as="geometry" />
