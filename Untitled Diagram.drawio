@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T03:01:26.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="GIaMEO-SRwweQb-hlqkn" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T03:04:18.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="vhFH2w6BUp_g7K_JevHO" version="20.0.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2430,11 +2430,11 @@
         <mxCell id="OVehZIJ8p7fkWujukLtn-21" value="9 days" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2082.07" y="1343.48" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OVehZIJ8p7fkWujukLtn-22" value="8 days" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OVehZIJ8p7fkWujukLtn-22" value="7 days" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2082.07" y="1385.48" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-23" value="Primary Site" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2154.75" y="1206.6399999999999" width="86" height="30" as="geometry" />
+          <mxGeometry x="1988.5" y="1241.0599999999997" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#009900&quot;&gt;WRT&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2310" y="1300.48" width="189.5" height="40" as="geometry" />
@@ -2443,7 +2443,7 @@
           <mxGeometry x="2705.75" y="1350.48" width="86" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-26" value="&lt;div&gt;&lt;span&gt;Hot site 單位: 分&lt;/span&gt;&lt;/div&gt;Warm site 單位: 天&lt;br&gt;Cold site 單位: 週" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1816.38" y="1438.96" width="113.25" height="57" as="geometry" />
+          <mxGeometry x="1935.25" y="1438.96" width="113.25" height="57" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-27" value="2 days" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2320.5" y="1305.48" width="40" height="30" as="geometry" />
@@ -2456,6 +2456,9 @@
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-31" value="&lt;span style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font face=&quot;Lato, PingFang TC, Helvetica Neue, Helvetica, 微軟正黑體, 新細明體, Arial, sans-serif&quot; color=&quot;#303233&quot;&gt;AIW: Acceptable Interruption Window&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;Lato, PingFang TC, Helvetica Neue, Helvetica, 微軟正黑體, 新細明體, Arial, sans-serif&quot; color=&quot;#303233&quot;&gt;SDO: Service Delivery Objective&lt;br&gt;&lt;/font&gt;MTO:&amp;nbsp;Maximum Tolerable Outage&amp;nbsp;&lt;span style=&quot;box-sizing: border-box; font-weight: 700; color: rgb(48, 50, 51);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;企業可以支持備用模式下的處理的最長時間&lt;br&gt;&lt;/font&gt;&lt;/span&gt;WRT:&amp;nbsp;Work Recovery Time&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2630" y="1470" width="500" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="OVehZIJ8p7fkWujukLtn-32" value="DR Site" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1996.07" y="1398.5799999999997" width="86" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
