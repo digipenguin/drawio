@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T05:20:46.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="MyRdWDve2QpLPoXUvo6Q" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T05:20:52.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="AhHJQvZzIIRpVE-uAF31" version="20.0.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2302,7 +2302,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h__-9r-erk3D4aENYNDO-19" value="CSF&lt;br&gt;成功要件" style="ellipse;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-1390" y="2952.17" width="84.5" height="69.67" as="geometry" />
+          <mxGeometry x="-1380" y="2952.17" width="74.5" height="69.67" as="geometry" />
         </mxCell>
         <mxCell id="h__-9r-erk3D4aENYNDO-21" value="&lt;span style=&quot;font-family: open_sansregular, Arial, Helvetica, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Business representatives&lt;br&gt;各單位充分參與&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-1580" y="2950" width="120" height="73" as="geometry" />
