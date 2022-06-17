@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T03:05:44.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="CTlrbg0lXn8nEAV3qIQj" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T03:08:41.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="YGX2ebRSxtonN21Gg66x" version="20.0.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2364,13 +2364,13 @@
           <mxGeometry x="624" y="-301" width="76" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#009900&quot;&gt;Normal Mode&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="2500" y="1201.06" width="310" height="40" as="geometry" />
+          <mxGeometry x="2500" y="1244.29" width="390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-6" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;AIW(MTD)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=right;" vertex="1" parent="1">
-          <mxGeometry x="2070.5" y="1380.48" width="539" height="40" as="geometry" />
+          <mxGeometry x="2070.5" y="1423.71" width="539" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#0000ff&quot;&gt;MTO&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2070.5" y="1340.48" width="619" height="40" as="geometry" />
+          <mxGeometry x="2070.5" y="1383.71" width="619" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-8" value="切換回去Primary (&lt;b&gt;Fail back&lt;/b&gt;)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="OVehZIJ8p7fkWujukLtn-9" target="OVehZIJ8p7fkWujukLtn-24">
           <mxGeometry x="0.0013" relative="1" as="geometry">
@@ -2378,13 +2378,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#4d4d4d&quot;&gt;Rebuilt&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="2070.5" y="1201.06" width="429.5" height="40" as="geometry" />
+          <mxGeometry x="2070.5" y="1244.29" width="429.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.549;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OVehZIJ8p7fkWujukLtn-14" target="OVehZIJ8p7fkWujukLtn-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1862" y="1366" />
-              <mxPoint x="1948" y="1366" />
+              <mxPoint x="1862" y="1409.23" />
+              <mxPoint x="1948" y="1409.23" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2395,9 +2395,9 @@
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OVehZIJ8p7fkWujukLtn-14" target="OVehZIJ8p7fkWujukLtn-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1915" y="1175.48" as="targetPoint" />
+            <mxPoint x="1915" y="1218.71" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2031" y="1226" />
+              <mxPoint x="2031" y="1269.23" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2407,58 +2407,64 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/arrows-elements-outline/128/ic_exclamation_mark_1-128.png" vertex="1" parent="1">
-          <mxGeometry x="1832" y="1195.48" width="60" height="60" as="geometry" />
+          <mxGeometry x="1832" y="1238.71" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-15" value="極限值，組織可以撐多久" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2630.5" y="1394.48" width="140.5" height="20" as="geometry" />
+          <mxGeometry x="2630.5" y="1437.71" width="140.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-16" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;RTO &amp;lt;=&amp;nbsp; AIW&amp;nbsp; &amp;lt;= MTO&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2351" y="1438.96" width="181.5" height="20" as="geometry" />
+          <mxGeometry x="2351" y="1482.19" width="181.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#009900&quot;&gt;RTO&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2070.5" y="1300.48" width="239.5" height="40" as="geometry" />
+          <mxGeometry x="2070.5" y="1343.71" width="239.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OVehZIJ8p7fkWujukLtn-18" value="&lt;font color=&quot;#ff0000&quot;&gt;SDO 70%&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2485.75" y="1350.48" width="72" height="20" as="geometry" />
+        <mxCell id="OVehZIJ8p7fkWujukLtn-18" value="&lt;font color=&quot;#ff0000&quot;&gt;SDO 60%&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2485.75" y="1393.71" width="72" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-19" value="&lt;font color=&quot;#ff0000&quot;&gt;SDO 100%&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2558.5" y="1211.06" width="72" height="20" as="geometry" />
+          <mxGeometry x="2558.5" y="1254.29" width="72" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-20" value="3 days" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2082.07" y="1305.48" width="40" height="30" as="geometry" />
+          <mxGeometry x="2082.07" y="1348.71" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-21" value="9 days" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2082.07" y="1343.48" width="40" height="30" as="geometry" />
+          <mxGeometry x="2082.07" y="1386.71" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-22" value="7 days" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2082.07" y="1385.48" width="40" height="30" as="geometry" />
+          <mxGeometry x="2082.07" y="1428.71" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-23" value="Primary Site" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1988.5" y="1241.0599999999997" width="86" height="30" as="geometry" />
+          <mxGeometry x="1988.5" y="1284.2899999999997" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; color=&quot;#009900&quot;&gt;WRT&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2310" y="1300.48" width="189.5" height="40" as="geometry" />
+          <mxGeometry x="2310" y="1343.71" width="189.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-25" value="DR可以撐多久" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2705.75" y="1350.48" width="86" height="20" as="geometry" />
+          <mxGeometry x="2705.75" y="1393.71" width="86" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-26" value="&lt;div&gt;&lt;span&gt;Hot site 單位: 分&lt;/span&gt;&lt;/div&gt;Warm site 單位: 天&lt;br&gt;Cold site 單位: 週" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1871.25" y="1428.58" width="113.25" height="57" as="geometry" />
+          <mxGeometry x="1871.25" y="1471.81" width="113.25" height="57" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-27" value="2 days" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2320.5" y="1305.48" width="40" height="30" as="geometry" />
+          <mxGeometry x="2320.5" y="1348.71" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-28" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.building;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2002.75" y="1191.4" width="63.2" height="55.2" as="geometry" />
+          <mxGeometry x="2002.75" y="1234.63" width="63.2" height="55.2" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-30" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2011.3500000000001" y="1328.38" width="54.6" height="70.19999999999999" as="geometry" />
+          <mxGeometry x="2011.3500000000001" y="1371.6100000000001" width="54.6" height="70.19999999999999" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-31" value="&lt;span style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font face=&quot;Lato, PingFang TC, Helvetica Neue, Helvetica, 微軟正黑體, 新細明體, Arial, sans-serif&quot; color=&quot;#303233&quot;&gt;AIW: Acceptable Interruption Window&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;Lato, PingFang TC, Helvetica Neue, Helvetica, 微軟正黑體, 新細明體, Arial, sans-serif&quot; color=&quot;#303233&quot;&gt;SDO: Service Delivery Objective&lt;br&gt;&lt;/font&gt;MTO:&amp;nbsp;Maximum Tolerable Outage&amp;nbsp;&lt;span style=&quot;box-sizing: border-box; font-weight: 700; color: rgb(48, 50, 51);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;企業可以支持備用模式下的處理的最長時間&lt;br&gt;&lt;/font&gt;&lt;/span&gt;WRT:&amp;nbsp;Work Recovery Time&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2630" y="1470" width="500" height="95" as="geometry" />
+          <mxGeometry x="2630" y="1513.23" width="500" height="95" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-32" value="DR Site" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1996.07" y="1398.5799999999997" width="86" height="30" as="geometry" />
+          <mxGeometry x="1996.07" y="1441.8099999999997" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVehZIJ8p7fkWujukLtn-33" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;AIW(MTD)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2070.5" y="1203.06" width="539" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OVehZIJ8p7fkWujukLtn-34" value="7 days" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2082.07" y="1208.71" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
