@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T03:35:07.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="c58aXTfP0Uej2BdmmgRs" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T03:43:12.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="TCFFv0zvVYBYM0e0FcNY" version="20.0.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1215,23 +1215,23 @@
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-34" value="&lt;b&gt;KCI&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2299.5" y="1992" width="70" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="ppujjk4q9aCOOOV1Y9fn-35" value="buiness targets" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-35" value="Buiness targets" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1884.5" y="2059" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ppujjk4q9aCOOOV1Y9fn-36" value="risk profile" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="2098.5" y="2059" width="85" height="30" as="geometry" />
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-36" value="Rrisk profile" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="2094.5" y="2059" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-37" value="&lt;b&gt;Monitoring&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1770" y="2059" width="78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ppujjk4q9aCOOOV1Y9fn-38" value="effectiveness of controls (objective)&lt;br&gt;(tolerance defined first)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="2299" y="2066" width="230.5" height="30" as="geometry" />
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-38" value="Effectiveness of controls (objective)&lt;br&gt;(tolerance defined first)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="2298" y="2064" width="230.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ppujjk4q9aCOOOV1Y9fn-39" value="Are we achieving desired level?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1884.5" y="2130" width="190" height="30" as="geometry" />
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-39" value="Are we achieved desired level?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1878.5" y="2131" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-40" value="How is risk profile?&lt;br&gt;Is it within tolerance level?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="2095" y="2130" width="190" height="30" as="geometry" />
+          <mxGeometry x="2093" y="2130" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-41" value="Are our controls effective?&lt;br&gt;What&#39;s impact to risk profile?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2299" y="2130" width="190" height="30" as="geometry" />
@@ -1243,10 +1243,10 @@
           <mxGeometry x="1880" y="2200" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-44" value="risk team, internal audit and regulator" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="2095" y="2200" width="369" height="30" as="geometry" />
+          <mxGeometry x="2090" y="2200" width="369" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ppujjk4q9aCOOOV1Y9fn-45" value="&lt;b&gt;Subject&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1790" y="2200" width="85" height="30" as="geometry" />
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-45" value="&lt;b&gt;Audience&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1779" y="2200" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-46" value="&lt;b&gt;Indicators&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1775" y="2255" width="85" height="30" as="geometry" />
@@ -1255,7 +1255,7 @@
           <mxGeometry x="1880" y="2255" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-48" value="&lt;b&gt;operational&lt;/b&gt; indicators" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="2095" y="2255" width="150" height="30" as="geometry" />
+          <mxGeometry x="2091" y="2255" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-50" value="如果risk超過可接受，則control(KCI)不有效&lt;br&gt;如果control有效，risk(KRI)則在可接受範圍" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2114" y="1930" width="350" height="30" as="geometry" />
