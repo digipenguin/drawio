@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T05:35:51.630Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="B5eXbrm7opiA67V-l4Wk" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T06:03:48.332Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="y8MugCieC4Iyv7-x2QhE" version="20.0.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
-    <mxGraphModel dx="3076" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4730" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2347,28 +2347,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nCQUSglWHMuktzrj9GrX-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;教育訓練&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2055.5" y="-603" width="94" height="60" as="geometry" />
+          <mxGeometry x="-1330.5300000000002" y="-523" width="94" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nCQUSglWHMuktzrj9GrX-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="nCQUSglWHMuktzrj9GrX-2" target="nCQUSglWHMuktzrj9GrX-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nCQUSglWHMuktzrj9GrX-2" value="Data&lt;br&gt;BYOD" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1712" y="-603" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1674.0300000000002" y="-523" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nCQUSglWHMuktzrj9GrX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="nCQUSglWHMuktzrj9GrX-3" target="nCQUSglWHMuktzrj9GrX-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nCQUSglWHMuktzrj9GrX-3" value="與所有人有關" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1879" y="-603" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1507.0300000000002" y="-523" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nCQUSglWHMuktzrj9GrX-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;通報數量增加&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;安全違規數量增加&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2215" y="-603" width="136" height="60" as="geometry" />
+        <mxCell id="nCQUSglWHMuktzrj9GrX-6" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;通報數量會增加&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;安全違規數量會增加&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1160.41" y="-523" width="150.41" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nCQUSglWHMuktzrj9GrX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="nCQUSglWHMuktzrj9GrX-8" target="nCQUSglWHMuktzrj9GrX-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nCQUSglWHMuktzrj9GrX-8" value="Policy要有效" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="2042.5" y="-740" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1343.5300000000002" y="-660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="twLCeh0AFv5yx6I_1eAb-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="twLCeh0AFv5yx6I_1eAb-2" target="twLCeh0AFv5yx6I_1eAb-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2560,13 +2560,13 @@
         <mxCell id="alKFNr_jJ7t4nsVRzYea-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;" edge="1" parent="1" source="alKFNr_jJ7t4nsVRzYea-14" target="alKFNr_jJ7t4nsVRzYea-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="alKFNr_jJ7t4nsVRzYea-14" value="文化=行為改變" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="alKFNr_jJ7t4nsVRzYea-14" value="文化=人行為改變" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-814" y="-580" width="120" height="37" as="geometry" />
         </mxCell>
         <mxCell id="alKFNr_jJ7t4nsVRzYea-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="alKFNr_jJ7t4nsVRzYea-16" target="alKFNr_jJ7t4nsVRzYea-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="alKFNr_jJ7t4nsVRzYea-16" value="教育訓練" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="alKFNr_jJ7t4nsVRzYea-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;教育訓練&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-815" y="-656.5" width="120" height="37" as="geometry" />
         </mxCell>
         <mxCell id="alKFNr_jJ7t4nsVRzYea-20" value="Education&lt;br&gt;Training&lt;br&gt;Awareness" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=8;" vertex="1" parent="1">
