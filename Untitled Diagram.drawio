@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T07:18:02.684Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="EcvLOEC8k3BI8ZQ0wkTs" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T10:00:17.343Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="63WGVDHV5ZRdywxaJjQG" version="20.0.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2543,6 +2543,9 @@
         <mxCell id="alKFNr_jJ7t4nsVRzYea-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="alKFNr_jJ7t4nsVRzYea-5" target="alKFNr_jJ7t4nsVRzYea-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="12d_HUmC5IM6Mi-UlXos-36" value="effective" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="alKFNr_jJ7t4nsVRzYea-5" target="12d_HUmC5IM6Mi-UlXos-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="alKFNr_jJ7t4nsVRzYea-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;風險管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-814" y="-338.75" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2649,6 +2652,9 @@
         </mxCell>
         <mxCell id="12d_HUmC5IM6Mi-UlXos-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Operation team&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1334.75" y="3193.44" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12d_HUmC5IM6Mi-UlXos-35" value="apply to all enterprise activities" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-821.5" y="-218" width="135" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
