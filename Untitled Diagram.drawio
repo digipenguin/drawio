@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T02:27:35.591Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="49YoGF9g_JnYln6QMiQ_" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T03:39:41.334Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="KniVRmJu1eKUfMpdC6IS" version="20.0.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1533,6 +1533,9 @@
         <mxCell id="2A-HXaCRAL6-0b0tGmBf-25" value="Prioritize" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1010" y="1614.44" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="12d_HUmC5IM6Mi-UlXos-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;" edge="1" parent="1" source="2A-HXaCRAL6-0b0tGmBf-27" target="12d_HUmC5IM6Mi-UlXos-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2A-HXaCRAL6-0b0tGmBf-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Recovery&lt;br&gt;BCP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1133" y="1614.44" width="87" height="60" as="geometry" />
         </mxCell>
@@ -2587,6 +2590,9 @@
         </mxCell>
         <mxCell id="12d_HUmC5IM6Mi-UlXos-2" value="&lt;font style=&quot;&quot;&gt;Exchange of accurate and timely information&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320.08" y="-338.75" width="149.08" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12d_HUmC5IM6Mi-UlXos-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;raises enterprise-wide awareness of risk to business recovery and continuity&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;align=left;arcSize=10;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1614.44" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
