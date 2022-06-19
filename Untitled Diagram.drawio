@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T02:11:26.750Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Ac17pGnXQ6soOSKei2bA" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T02:27:35.591Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="49YoGF9g_JnYln6QMiQ_" version="20.0.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -784,8 +784,8 @@
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-34" value="CBA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="lZBSud-YIM7QX_FMS43R-58" target="KU6Lz0kbw_T2_Cv3vvoF-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lZBSud-YIM7QX_FMS43R-58" value="control deficiencies&lt;br&gt;&lt;span style=&quot;font-family: open_sansregular, Arial, Helvetica, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;控制缺陷&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-320" y="1612" width="100" height="60" as="geometry" />
+        <mxCell id="lZBSud-YIM7QX_FMS43R-58" value="control deficiencies&lt;br&gt;&lt;span style=&quot;font-family: open_sansregular, Arial, Helvetica, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;控制缺陷&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="1600" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9qnvDsTE580gVhcHcqW_-3" value="Desired State" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-810" y="1364.48" width="100" height="60" as="geometry" />
@@ -2490,7 +2490,7 @@
           <mxGeometry x="1996.07" y="1441.8099999999997" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-45" value="&lt;span style=&quot;font-family: arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;Peer Review&lt;br&gt;同行評審是一種學術成果審查程序，即被同一領域的其他專家評審，目的是確保符合業界標準&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-341.79" y="1197" width="324.29" height="73" as="geometry" />
+          <mxGeometry x="-364.29" y="1254.29" width="324.29" height="73" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-46" value="&lt;span style=&quot;font-family: arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;Peer Review&lt;br&gt;同行評審是一種學術成果審查程序，即被同一領域的其他專家評審，&lt;b&gt;目的是確保過程符合業界標準&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Helvetica;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="17.71" y="-710" width="324.29" height="73" as="geometry" />
@@ -2581,6 +2581,12 @@
         </mxCell>
         <mxCell id="alKFNr_jJ7t4nsVRzYea-22" value="CBA" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1427.5" y="1835.94" width="80" height="44.06" as="geometry" />
+        </mxCell>
+        <mxCell id="12d_HUmC5IM6Mi-UlXos-4" value="enable" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;" edge="1" parent="1" source="12d_HUmC5IM6Mi-UlXos-2" target="alKFNr_jJ7t4nsVRzYea-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12d_HUmC5IM6Mi-UlXos-2" value="&lt;font style=&quot;&quot;&gt;Exchange of accurate and timely information&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320.08" y="-338.75" width="149.08" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
