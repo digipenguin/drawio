@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T00:18:32.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="wERGoDXAT6b08fm7DAyn" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T00:22:53.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="_VhGMvIJowlwSpi5ADKh" version="20.0.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2128,7 +2128,7 @@
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-26" value="senior 決定" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-8" target="KU6Lz0kbw_T2_Cv3vvoF-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-8" value="Risk Treament Plan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Risk Treament Plan&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="2192.25" y="-301" width="102" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;收益 &amp;gt; 成本&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
@@ -2155,11 +2155,11 @@
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-28" value="initiate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-25" target="KU6Lz0kbw_T2_Cv3vvoF-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-25" value="風險報告&lt;br&gt;Risk Reporting" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;風險報告&lt;br&gt;Risk Reporting&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2427.16" y="-301" width="102" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-27" value="Risk Response" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="2592.5" y="-301" width="102" height="60" as="geometry" />
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Risk Response&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="2600" y="-301" width="102" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-29" target="ppujjk4q9aCOOOV1Y9fn-53" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2652,9 +2652,6 @@
         </mxCell>
         <mxCell id="12d_HUmC5IM6Mi-UlXos-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Operation team&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1334.75" y="3193.44" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Tmzl6-Bxjeo0BhHCxWjC-1" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;風險報告&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;risk reporting&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1294.75" y="-300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
