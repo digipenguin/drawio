@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T00:52:50.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="B_K6zaR3ENvd6L0kMiqL" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T01:29:37.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="4_-dtsHI_pd9ZwnPqBs5" version="20.0.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2125,7 +2125,7 @@
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-8" target="KU6Lz0kbw_T2_Cv3vvoF-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-26" value="senior 決定" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-8" target="KU6Lz0kbw_T2_Cv3vvoF-25" edge="1">
+        <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-26" value="senior 決策" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="KU6Lz0kbw_T2_Cv3vvoF-8" target="KU6Lz0kbw_T2_Cv3vvoF-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KU6Lz0kbw_T2_Cv3vvoF-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Risk Treament Plan&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
