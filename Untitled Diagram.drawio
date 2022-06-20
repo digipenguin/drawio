@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T00:12:26.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="6oCkKq9XWywqD1tRcITv" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T00:14:39.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="L8C1GqpvwtwTvKNHZLtA" version="20.0.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2090,7 +2090,7 @@
         <mxCell id="-eLZooR8cLsGAlyZ6gkn-33" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根因分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1146" y="-667" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-eLZooR8cLsGAlyZ6gkn-35" value="&lt;span style=&quot;font-family: open_sansregular, Arial, Helvetica, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;有效降低风险的可行计划&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: open_sansregular, Arial, Helvetica, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="-eLZooR8cLsGAlyZ6gkn-35" value="&lt;span style=&quot;font-family: open_sansregular, Arial, Helvetica, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;能有效降低風險的可行計畫&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: open_sansregular, Arial, Helvetica, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1336" y="-667" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-eLZooR8cLsGAlyZ6gkn-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;合約&lt;b&gt;最重要&lt;/b&gt;是合規性&lt;br&gt;&lt;b&gt;最有效&lt;/b&gt;是定期審計&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
@@ -2517,10 +2517,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-57" value="&lt;span style=&quot;font-family: open_sansregular, Arial, Helvetica, sans-serif; font-weight: 700; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;跨學科團隊&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;strokeColor=#666666;strokeWidth=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="538" y="-1090" width="93" height="60" as="geometry" />
+          <mxGeometry x="537" y="-1070" width="93" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-59" value="&lt;span style=&quot;font-family: open_sansregular, Arial, Helvetica, sans-serif; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Capability Maturity Model&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#000000;strokeColor=#666666;strokeWidth=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="359.5" y="-1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="281" y="-1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OVehZIJ8p7fkWujukLtn-63" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;effective&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" parent="1" source="OVehZIJ8p7fkWujukLtn-60" target="OVehZIJ8p7fkWujukLtn-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
