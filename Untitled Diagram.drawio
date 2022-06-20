@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T12:41:05.273Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Cqq2PeU7UrhjmWWR3j0o" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T13:12:18.863Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="lt3rPY1YGS5NA1mhG-pB" version="20.0.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2330,8 +2330,8 @@
         <mxCell id="h__-9r-erk3D4aENYNDO-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;Features configured&lt;br&gt;&lt;b&gt;&amp;nbsp;Testing and Verify&lt;/b&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp;Migration&lt;/b&gt; activities&lt;br&gt;&amp;nbsp;3rd party risk&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-1035.03" y="2943.12" width="180" height="88.76" as="geometry" />
         </mxCell>
-        <mxCell id="h__-9r-erk3D4aENYNDO-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Regular updates and maintenance&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-1035.03" y="3160" width="270" height="60" as="geometry" />
+        <mxCell id="h__-9r-erk3D4aENYNDO-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;Regular updates and maintenance&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;Compliance testing (檢查未授權變更正式區)&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="-1035.03" y="3160" width="305.03" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h__-9r-erk3D4aENYNDO-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Discard in a secured way (風險已不再相關)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-1035.03" y="3305" width="285.03" height="60" as="geometry" />
