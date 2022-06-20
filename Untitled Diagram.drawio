@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T01:29:37.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="4_-dtsHI_pd9ZwnPqBs5" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T06:04:44.877Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="7XNhwF9YcdeklS60mXo9" version="20.0.1" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1177,7 +1177,7 @@
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-5" value="design" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="ppujjk4q9aCOOOV1Y9fn-4" target="ppujjk4q9aCOOOV1Y9fn-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ppujjk4q9aCOOOV1Y9fn-4" value="&lt;b&gt;Linked to specific risk&lt;/b&gt;&lt;br&gt;predictable event&lt;b&gt;&lt;br&gt;&lt;/b&gt;SMART&lt;br&gt;Correct &amp;amp; accurate&lt;br&gt;&lt;b&gt;透過紀錄整個操作流程來設計&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-4" value="&lt;b&gt;Linked to specific risk&lt;/b&gt;&lt;br&gt;predictable event&lt;b&gt;&lt;br&gt;&lt;/b&gt;SMART&lt;br&gt;&lt;b&gt;透過紀錄整個操作流程來設計&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="835" y="2120" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-7" value="&lt;font color=&quot;#000000&quot;&gt;Risk owner&lt;br&gt;Current State&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#0000FF;" parent="1" vertex="1">
