@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T05:26:47.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="MpdpTBA3khCqFLoUNS-D" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T05:27:45.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="7IJsEJoIy6YyUk4PB0rI" version="20.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -264,7 +264,7 @@
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-67" value="比較&lt;br&gt;risk appetite&lt;br&gt;risk tolerance" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="391" y="532.89" width="90" height="47.93" as="geometry" />
         </mxCell>
-        <mxCell id="ln6FcJClQyvE4a3wRQ_i-68" value="威脅: 外部不可控&lt;br&gt;弱點: 內部可控" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ln6FcJClQyvE4a3wRQ_i-68" value="威脅: 不可控(外部)&lt;br&gt;弱點: 可控(內部)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="392" y="356.39" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TevLKIAy9YhjM-IDDqqt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0000;startArrow=none;startFill=0;dashed=1;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-69" target="TevLKIAy9YhjM-IDDqqt-4" edge="1">
