@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T05:28:21.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="aoq40iSRdJ6D7DgmbU1o" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T05:29:03.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="GHZK9kb4BH1-0-FmQplf" version="20.0.3" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -762,7 +762,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-49" value="&lt;ol&gt;&lt;li&gt;&lt;b&gt;Risk Assessment&amp;nbsp;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Audit Reports &amp;amp; Third-Party Assurance&lt;/li&gt;&lt;li&gt;BCP/DRP&lt;/li&gt;&lt;li&gt;&lt;b&gt;Capability maturity models(CMM)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Control Self-Assessment&lt;/li&gt;&lt;li&gt;Incident Reporting Procedure and Logs&lt;/li&gt;&lt;li&gt;VA &amp;amp; PT&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-635" y="1337" width="320" height="114.96" as="geometry" />
+          <mxGeometry x="-615" y="1337" width="280" height="114.96" as="geometry" />
         </mxCell>
         <mxCell id="lZBSud-YIM7QX_FMS43R-55" value="2. evaluate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="lZBSud-YIM7QX_FMS43R-54" target="lZBSud-YIM7QX_FMS43R-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
