@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T13:12:21.492Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ipsnoXkCm1BGYomEypAr" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-20T13:12:54.159Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="jQqxCOAJ-YI-vS9qXS2k" version="20.2.7" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
     <mxGraphModel dx="3076" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1193,10 +1193,10 @@
           <mxGeometry x="872.5" y="2241" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-15" value="Lag indicators&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;KRI&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1841.5" y="2420" width="100" height="60" as="geometry" />
+          <mxGeometry x="2592" y="2129" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-16" value="Lead indicators&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;KRI&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="2229.5" y="2420" width="100" height="60" as="geometry" />
+          <mxGeometry x="2980" y="2129" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-19" value="平衡" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;" parent="1" source="ppujjk4q9aCOOOV1Y9fn-17" target="ppujjk4q9aCOOOV1Y9fn-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1205,13 +1205,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-17" value="Now" style="ellipse;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="2048.5" y="2420" width="70" height="60" as="geometry" />
+          <mxGeometry x="2799" y="2129" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-20" value="已經發生的落後指標&lt;br&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;蒐集資料報告&lt;br&gt;經驗學習&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1955" y="2470" width="135" height="96" as="geometry" />
+          <mxGeometry x="2705.5" y="2179" width="135" height="96" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-21" value="還沒發生的領先指標&lt;br&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;風險預測&lt;br&gt;監控current state&lt;/b&gt;&lt;/font&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="2110" y="2470" width="135" height="96" as="geometry" />
+          <mxGeometry x="2860.5" y="2179" width="135" height="96" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-30" value="&lt;b&gt;KPI&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1914.5" y="1992" width="70" height="44" as="geometry" />
