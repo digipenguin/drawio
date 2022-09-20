@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T00:48:02.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="scG1z1C3ullRJQVkCwTd" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-20T13:12:21.492Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ipsnoXkCm1BGYomEypAr" version="20.2.7" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
-    <mxGraphModel dx="2522" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1267,7 +1267,7 @@
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-48" value="&lt;b&gt;operational&lt;/b&gt; indicators" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2091" y="2255" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ppujjk4q9aCOOOV1Y9fn-50" value="如果risk超過可接受，則control(KCI)不有效&lt;br&gt;如果control有效，risk(KRI)則在可接受範圍" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="ppujjk4q9aCOOOV1Y9fn-50" value="如果risk超過可接受的範圍，則control(KCI)不有效&lt;br&gt;如果control有效，risk(KRI)則在可接受範圍" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2114" y="1930" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppujjk4q9aCOOOV1Y9fn-54" value="identify&lt;br&gt;changes" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontColor=#000000;startArrow=none;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pOB_KC2y14MpkEapG82R-1" target="ppujjk4q9aCOOOV1Y9fn-53" edge="1">
