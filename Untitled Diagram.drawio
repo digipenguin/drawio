@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T13:12:54.159Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="jQqxCOAJ-YI-vS9qXS2k" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T00:46:46.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="8e80_B90vHSpEQyS4-3w" version="21.6.2" type="github">
   <diagram id="kBBc2JsPWASkHgDuxC8e" name="Page-1">
-    <mxGraphModel dx="3076" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3088" dy="1937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -276,7 +276,7 @@
         <mxCell id="ln6FcJClQyvE4a3wRQ_i-69" value="&amp;nbsp;1.蒐集資訊 (current/desire)&lt;br&gt;&amp;nbsp;2.identify assets&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;br&gt;&amp;nbsp;3.identify &lt;font color=&quot;#ff0000&quot;&gt;threats&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&amp;nbsp;4.identify controls&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;5.identify &lt;font color=&quot;#ff0000&quot;&gt;vulnerabilities&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&amp;nbsp;6.identify consequences&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="585" y="348.0200000000001" width="160" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="TevLKIAy9YhjM-IDDqqt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;startArrow=classic;startFill=1;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-70" target="TevLKIAy9YhjM-IDDqqt-4" edge="1">
+        <mxCell id="TevLKIAy9YhjM-IDDqqt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;fontColor=#000000;startArrow=none;startFill=0;" parent="1" source="ln6FcJClQyvE4a3wRQ_i-70" target="TevLKIAy9YhjM-IDDqqt-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FXxkkbOfWT-pd1TcEbKr-52" value="用威脅創建情境" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=#000000;" parent="TevLKIAy9YhjM-IDDqqt-11" vertex="1" connectable="0">
