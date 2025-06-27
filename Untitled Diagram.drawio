@@ -2860,7 +2860,7 @@
         <mxCell id="KGkknE6jIrqIu-4BuvDx-37" value="減少公開資訊曝光，如官網、社交媒體、DNS紀錄" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1452" y="-1106.5" width="150.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KGkknE6jIrqIu-4BuvDx-39" value="使用者培訓&lt;div&gt;禁用部必要軟體、功能，如巨集&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
+        <mxCell id="KGkknE6jIrqIu-4BuvDx-39" value="使用者培訓&lt;div&gt;禁用非必要軟體、功能，如巨集&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1452" y="-1003.5" width="178" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KGkknE6jIrqIu-4BuvDx-42" value="使用者培訓&lt;div&gt;WAF&lt;br&gt;SoC監控&lt;/div&gt;&lt;div&gt;Patch Management&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
