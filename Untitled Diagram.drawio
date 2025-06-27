@@ -2836,8 +2836,8 @@
         <mxCell id="KGkknE6jIrqIu-4BuvDx-25" value="&lt;div&gt;此階段主要要透過漏洞來利用&lt;/div&gt;&lt;div&gt;弱密碼、配置錯誤&lt;/div&gt;軟體漏洞、zeroday" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1186.5" y="-802.5" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KGkknE6jIrqIu-4BuvDx-27" value="&lt;div&gt;EDR 監控 process 關係&lt;/div&gt;&lt;div&gt;定期系統稽核比對baseline&lt;/div&gt;應用程式白名單" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1453.5" y="-706.5" width="150.5" height="60" as="geometry" />
+        <mxCell id="KGkknE6jIrqIu-4BuvDx-27" value="&lt;div&gt;EDR 監控 process 關係(脈絡)&lt;/div&gt;&lt;div&gt;定期系統稽核比對baseline&lt;/div&gt;應用程式白名單" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="1453.5" y="-706.5" width="176.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KGkknE6jIrqIu-4BuvDx-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KGkknE6jIrqIu-4BuvDx-29" target="KGkknE6jIrqIu-4BuvDx-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
